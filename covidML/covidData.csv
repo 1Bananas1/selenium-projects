@@ -1,0 +1,3001 @@
+patient id,age,gender,income group,asthma,fever,decision,status
+1,44,male,medium,yes,100,no test,not infected
+2,48,male,medium,no,101,no test,not infected
+3,58,male,medium,unknown,99,no test,infected
+4,45,male,medium,no,100,no test,infected
+5,41,female,medium,unknown,98,no test,infected
+6,25,male,high,unknown,102,no test,not infected
+7,48,female,medium,no,104,no test,infected
+8,44,male,low,unknown,100,no test,not infected
+9,22,female,medium,yes,101,no test,not infected
+10,55,female,low,unknown,99,no test,not infected
+11,28,female,low,unknown,98,no test,not infected
+12,34,male,low,no,99,no test,not infected
+13,28,male,low,yes,101,no test,infected
+14,36,female,medium,yes,101,no test,infected
+15,57,male,low,no,100,no test,infected
+16,32,female,low,unknown,98,no test,not infected
+17,30,male,high,unknown,99,no test,not infected
+18,41,female,low,yes,99,no test,not infected
+19,48,female,low,unknown,102,no test,not infected
+20,24,female,medium,unknown,101,no test,infected
+21,37,male,high,unknown,100,no test,infected
+22,43,male,low,no,104,no test,not infected
+23,56,female,medium,yes,102,no test,infected
+24,45,female,medium,yes,98,no test,not infected
+25,47,female,low,yes,103,no test,infected
+26,50,female,medium,no,103,no test,infected
+27,39,female,medium,yes,104,no test,not infected
+28,32,male,medium,yes,100,no test,not infected
+29,42,female,medium,yes,104,no test,infected
+30,63,male,high,no,100,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,43,female,medium,yes,103,no test,infected
+3,35,female,low,yes,103,no test,not infected
+4,51,male,high,yes,102,no test,not infected
+5,38,male,low,yes,98,no test,not infected
+6,48,male,medium,no,103,no test,infected
+7,54,male,low,yes,104,no test,infected
+8,37,male,medium,unknown,99,no test,infected
+9,45,male,medium,yes,104,no test,infected
+10,60,female,low,unknown,98,no test,infected
+11,64,female,low,unknown,102,no test,infected
+12,42,female,low,yes,104,no test,infected
+13,31,female,high,unknown,101,no test,infected
+14,64,female,low,unknown,99,no test,not infected
+15,57,male,low,no,103,no test,not infected
+16,35,male,medium,unknown,102,no test,infected
+17,39,male,low,no,100,no test,infected
+18,32,male,high,yes,103,no test,not infected
+19,47,female,medium,yes,98,no test,not infected
+20,56,female,medium,unknown,103,no test,infected
+21,37,female,low,no,104,no test,not infected
+22,58,male,medium,yes,101,no test,not infected
+23,37,female,low,no,101,no test,not infected
+24,58,male,low,no,98,no test,infected
+25,48,male,medium,yes,103,no test,infected
+26,55,female,medium,yes,100,no test,not infected
+27,24,male,medium,no,99,no test,not infected
+28,39,male,high,yes,99,no test,infected
+29,39,male,low,unknown,98,no test,not infected
+30,55,male,medium,unknown,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,22,male,low,yes,100,no test,not infected
+3,32,male,medium,yes,99,no test,not infected
+4,42,male,medium,yes,98,no test,not infected
+5,53,female,medium,unknown,100,no test,infected
+6,40,female,medium,unknown,103,no test,infected
+7,50,male,low,no,103,no test,infected
+8,52,female,medium,yes,103,no test,infected
+9,56,female,low,unknown,100,no test,not infected
+10,33,male,low,unknown,104,no test,not infected
+11,59,female,low,no,99,no test,infected
+12,53,male,medium,unknown,104,no test,infected
+13,48,male,low,yes,104,no test,infected
+14,56,female,medium,unknown,101,no test,infected
+15,45,female,high,no,100,no test,not infected
+16,37,female,low,no,99,no test,not infected
+17,31,male,low,unknown,99,no test,infected
+18,45,female,medium,yes,98,no test,not infected
+19,50,male,medium,yes,100,no test,not infected
+20,47,male,medium,yes,98,no test,infected
+21,41,female,medium,yes,102,no test,infected
+22,61,male,high,no,98,no test,infected
+23,55,male,medium,yes,98,no test,not infected
+24,58,female,medium,yes,100,no test,not infected
+25,46,female,medium,unknown,98,no test,infected
+26,25,female,medium,unknown,101,no test,not infected
+27,24,female,medium,unknown,103,no test,not infected
+28,31,male,medium,unknown,102,no test,infected
+29,33,male,low,unknown,103,no test,infected
+30,52,female,low,unknown,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,24,female,medium,no,101,no test,not infected
+3,49,female,medium,yes,99,no test,infected
+4,47,female,low,unknown,100,no test,infected
+5,52,male,high,yes,99,no test,not infected
+6,38,male,low,unknown,104,no test,infected
+7,41,female,low,yes,101,no test,not infected
+8,56,female,high,yes,100,no test,not infected
+9,35,male,low,no,100,no test,not infected
+10,44,male,medium,unknown,101,no test,infected
+11,54,female,medium,no,104,no test,infected
+12,52,male,medium,unknown,103,no test,infected
+13,28,male,low,yes,99,no test,not infected
+14,66,male,low,unknown,103,no test,not infected
+15,43,female,low,yes,101,no test,infected
+16,47,female,high,yes,99,no test,infected
+17,45,male,medium,unknown,102,no test,not infected
+18,39,male,low,yes,98,no test,not infected
+19,39,female,low,yes,101,no test,not infected
+20,30,male,medium,unknown,103,no test,infected
+21,40,female,low,unknown,98,no test,infected
+22,53,male,medium,no,100,no test,not infected
+23,38,male,medium,unknown,99,no test,infected
+24,47,male,medium,yes,102,no test,not infected
+25,34,female,medium,no,100,no test,not infected
+26,30,male,medium,yes,101,no test,not infected
+27,28,female,low,unknown,101,no test,infected
+28,24,male,medium,no,104,no test,infected
+29,51,male,medium,yes,101,no test,infected
+30,46,male,medium,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,56,male,high,yes,100,no test,not infected
+3,39,male,high,yes,98,no test,not infected
+4,34,female,high,no,98,no test,not infected
+5,40,male,low,unknown,100,no test,not infected
+6,45,female,low,yes,101,no test,infected
+7,45,female,medium,yes,101,no test,not infected
+8,55,male,medium,unknown,101,no test,infected
+9,52,male,high,no,102,no test,not infected
+10,32,female,low,yes,101,no test,not infected
+11,48,male,high,unknown,101,no test,not infected
+12,37,female,medium,unknown,98,no test,infected
+13,37,male,medium,no,99,no test,not infected
+14,35,female,medium,unknown,101,no test,infected
+15,64,female,low,no,101,no test,infected
+16,60,female,low,unknown,99,no test,infected
+17,50,male,low,yes,103,no test,infected
+18,31,male,low,yes,99,no test,not infected
+19,38,female,low,yes,104,no test,not infected
+20,54,female,medium,no,98,no test,infected
+21,29,male,low,unknown,100,no test,not infected
+22,49,male,medium,yes,100,no test,not infected
+23,28,male,low,no,98,no test,not infected
+24,48,female,medium,yes,98,no test,infected
+25,50,female,medium,no,100,no test,infected
+26,45,female,high,unknown,104,no test,infected
+27,54,female,high,unknown,103,no test,infected
+28,46,male,high,yes,101,no test,not infected
+29,37,male,low,unknown,101,no test,infected
+30,50,male,medium,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,37,female,medium,no,98,no test,infected
+3,42,female,low,no,100,no test,infected
+4,53,male,low,unknown,103,no test,infected
+5,44,female,low,yes,99,no test,not infected
+6,28,male,high,yes,102,no test,infected
+7,48,male,medium,unknown,102,no test,infected
+8,43,male,medium,unknown,104,no test,infected
+9,31,female,medium,yes,101,no test,not infected
+10,53,male,low,no,103,no test,not infected
+11,35,male,medium,unknown,102,no test,not infected
+12,52,female,medium,yes,100,no test,not infected
+13,60,male,low,yes,104,no test,not infected
+14,60,female,medium,unknown,104,no test,infected
+15,41,male,medium,yes,104,no test,infected
+16,40,female,medium,no,103,no test,infected
+17,48,male,low,no,100,no test,infected
+18,38,female,medium,yes,99,no test,not infected
+19,36,male,low,unknown,98,no test,not infected
+20,36,male,medium,no,102,no test,not infected
+21,32,female,medium,unknown,100,no test,not infected
+22,29,male,high,unknown,104,no test,not infected
+23,63,male,medium,unknown,102,no test,not infected
+24,37,male,low,unknown,99,no test,infected
+25,45,female,medium,no,100,no test,infected
+26,18,male,medium,no,99,no test,not infected
+27,34,male,medium,yes,98,no test,not infected
+28,40,female,low,no,99,no test,infected
+29,38,female,medium,yes,104,no test,infected
+30,45,female,medium,unknown,99,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,42,male,low,yes,101,no test,not infected
+3,59,male,low,unknown,102,no test,infected
+4,45,female,high,unknown,98,no test,infected
+5,42,male,medium,yes,104,no test,not infected
+6,25,male,medium,yes,102,no test,not infected
+7,61,female,low,unknown,100,no test,infected
+8,56,male,low,unknown,104,no test,infected
+9,35,female,low,unknown,100,no test,infected
+10,43,male,high,yes,99,no test,not infected
+11,25,female,low,yes,100,no test,not infected
+12,22,female,medium,unknown,104,no test,infected
+13,58,male,high,unknown,100,no test,infected
+14,23,female,medium,yes,102,no test,infected
+15,48,male,low,yes,99,no test,not infected
+16,32,female,high,yes,98,no test,not infected
+17,42,female,medium,yes,98,no test,infected
+18,48,male,medium,no,99,no test,infected
+19,51,male,medium,yes,104,no test,infected
+20,56,male,low,unknown,100,no test,infected
+21,44,female,high,no,98,no test,infected
+22,44,female,high,yes,102,no test,infected
+23,63,female,medium,yes,103,no test,infected
+24,48,female,medium,unknown,102,no test,not infected
+25,36,female,low,no,99,no test,not infected
+26,46,female,medium,no,102,no test,infected
+27,33,female,medium,no,100,no test,infected
+28,31,male,low,unknown,100,no test,infected
+29,26,female,medium,unknown,101,no test,not infected
+30,44,female,medium,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,39,female,low,yes,101,no test,infected
+3,24,female,low,yes,102,no test,infected
+4,46,female,low,unknown,100,no test,infected
+5,30,female,medium,unknown,98,no test,not infected
+6,60,male,low,no,104,no test,infected
+7,37,male,low,yes,99,no test,not infected
+8,36,female,medium,unknown,100,no test,infected
+9,52,male,high,unknown,101,no test,infected
+10,53,male,medium,no,102,no test,infected
+11,22,male,low,yes,102,no test,infected
+12,45,male,medium,yes,99,no test,not infected
+13,36,male,low,yes,104,no test,not infected
+14,33,male,medium,yes,102,no test,infected
+15,38,male,low,unknown,98,no test,infected
+16,40,male,medium,unknown,103,no test,infected
+17,28,female,low,no,98,no test,not infected
+18,53,male,medium,unknown,104,no test,infected
+19,63,female,low,unknown,100,no test,infected
+20,35,female,medium,unknown,99,no test,not infected
+21,46,male,low,yes,100,no test,not infected
+22,37,male,low,yes,102,no test,not infected
+23,40,female,high,no,98,no test,infected
+24,45,female,low,yes,103,no test,infected
+25,50,female,medium,unknown,102,no test,infected
+26,43,female,high,unknown,103,no test,not infected
+27,42,female,medium,unknown,103,no test,infected
+28,55,male,medium,no,100,no test,not infected
+29,48,female,low,no,103,no test,not infected
+30,60,female,medium,unknown,102,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,40,male,low,no,103,no test,not infected
+3,40,male,medium,unknown,101,no test,infected
+4,39,male,low,unknown,98,no test,infected
+5,45,female,low,unknown,98,no test,not infected
+6,55,female,medium,yes,99,no test,not infected
+7,50,female,medium,yes,99,no test,not infected
+8,34,male,medium,yes,98,no test,not infected
+9,32,female,low,unknown,98,no test,not infected
+10,46,male,medium,no,100,no test,not infected
+11,23,male,low,no,99,no test,not infected
+12,60,male,medium,yes,103,no test,infected
+13,43,female,medium,unknown,103,no test,infected
+14,42,female,medium,no,102,no test,not infected
+15,28,female,medium,unknown,102,no test,infected
+16,29,female,low,yes,99,no test,not infected
+17,45,female,low,yes,103,no test,infected
+18,35,male,medium,yes,102,no test,infected
+19,39,male,medium,unknown,103,no test,infected
+20,51,male,medium,no,98,no test,not infected
+21,18,female,high,no,103,no test,not infected
+22,28,male,medium,no,98,no test,infected
+23,60,female,medium,unknown,99,no test,infected
+24,57,female,medium,no,103,no test,infected
+25,44,female,medium,unknown,100,no test,infected
+26,46,male,low,yes,104,no test,infected
+27,37,male,medium,unknown,102,no test,infected
+28,32,male,medium,unknown,104,no test,infected
+29,63,male,low,yes,99,no test,not infected
+30,64,male,medium,yes,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,41,female,low,unknown,100,no test,infected
+3,49,male,high,unknown,100,no test,infected
+4,31,male,low,no,98,no test,not infected
+5,58,female,high,unknown,102,no test,infected
+6,47,male,medium,no,101,no test,infected
+7,57,female,medium,yes,99,no test,not infected
+8,29,male,low,unknown,101,no test,not infected
+9,43,male,low,no,98,no test,infected
+10,61,male,medium,yes,104,no test,infected
+11,38,female,medium,yes,99,no test,not infected
+12,48,female,medium,no,102,no test,not infected
+13,25,female,medium,yes,100,no test,not infected
+14,39,female,low,unknown,103,no test,infected
+15,46,female,high,unknown,102,no test,infected
+16,39,male,low,unknown,102,no test,infected
+17,33,female,medium,unknown,99,no test,infected
+18,54,male,medium,yes,100,no test,not infected
+19,46,female,high,no,101,no test,not infected
+20,58,male,low,yes,104,no test,infected
+21,58,male,medium,yes,99,no test,infected
+22,36,female,low,yes,102,no test,infected
+23,43,male,medium,yes,100,no test,infected
+24,42,female,high,no,101,no test,not infected
+25,34,male,low,yes,102,no test,infected
+26,44,female,low,unknown,104,no test,infected
+27,59,male,medium,unknown,100,no test,not infected
+28,42,female,low,unknown,100,no test,not infected
+29,45,male,medium,unknown,100,no test,infected
+30,33,male,medium,no,104,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,43,female,low,no,103,no test,not infected
+3,43,male,low,no,98,no test,infected
+4,37,female,low,no,99,no test,not infected
+5,47,male,medium,yes,103,no test,infected
+6,37,female,high,no,102,no test,infected
+7,57,male,medium,yes,102,no test,infected
+8,48,male,high,unknown,103,no test,not infected
+9,32,female,medium,yes,101,no test,not infected
+10,46,male,medium,unknown,104,no test,infected
+11,37,male,medium,yes,98,no test,infected
+12,31,female,medium,unknown,101,no test,not infected
+13,47,female,low,no,103,no test,infected
+14,44,male,high,yes,100,no test,not infected
+15,58,female,low,yes,101,no test,not infected
+16,48,female,medium,no,99,no test,infected
+17,47,female,low,unknown,103,no test,infected
+18,49,male,medium,yes,99,no test,infected
+19,31,female,high,yes,101,no test,not infected
+20,48,male,low,unknown,102,no test,infected
+21,38,female,medium,yes,104,no test,infected
+22,26,male,low,unknown,99,no test,infected
+23,58,female,low,yes,104,no test,infected
+24,37,male,medium,yes,104,no test,infected
+25,27,female,medium,yes,102,no test,infected
+26,31,female,low,unknown,104,no test,not infected
+27,52,male,low,no,101,no test,infected
+28,41,female,low,yes,100,no test,infected
+29,46,female,medium,unknown,100,no test,infected
+30,49,female,low,yes,99,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,36,female,medium,unknown,104,no test,not infected
+3,46,male,medium,yes,101,no test,not infected
+4,36,female,medium,no,98,no test,not infected
+5,39,male,medium,yes,99,no test,not infected
+6,33,male,medium,no,99,no test,not infected
+7,45,female,medium,unknown,103,no test,infected
+8,46,male,low,unknown,103,no test,infected
+9,37,female,medium,unknown,102,no test,infected
+10,40,male,low,no,99,no test,not infected
+11,37,female,low,yes,103,no test,not infected
+12,58,female,medium,yes,101,no test,not infected
+13,54,female,low,unknown,103,no test,infected
+14,43,female,medium,yes,103,no test,infected
+15,39,male,low,unknown,98,no test,infected
+16,33,female,medium,unknown,98,no test,not infected
+17,53,male,low,unknown,103,no test,infected
+18,64,male,low,unknown,99,no test,not infected
+19,29,male,high,yes,99,no test,not infected
+20,38,female,medium,unknown,104,no test,not infected
+21,53,female,medium,no,99,no test,infected
+22,46,male,low,no,99,no test,infected
+23,45,female,medium,no,102,no test,not infected
+24,51,male,medium,no,98,no test,infected
+25,43,female,medium,yes,102,no test,infected
+26,19,female,low,unknown,102,no test,not infected
+27,52,female,medium,yes,102,no test,infected
+28,52,male,high,yes,103,no test,infected
+29,45,male,medium,yes,102,no test,infected
+30,27,female,low,unknown,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,52,male,low,yes,99,no test,not infected
+3,35,male,high,no,101,no test,not infected
+4,49,female,medium,no,102,no test,infected
+5,55,male,low,no,98,no test,infected
+6,23,female,low,unknown,98,no test,not infected
+7,41,male,low,yes,100,no test,not infected
+8,32,female,low,yes,104,no test,infected
+9,47,male,low,yes,98,no test,infected
+10,44,male,medium,unknown,98,no test,not infected
+11,40,female,low,unknown,101,no test,not infected
+12,30,female,medium,yes,99,no test,not infected
+13,43,male,medium,unknown,102,no test,not infected
+14,30,female,high,yes,98,no test,not infected
+15,46,female,medium,yes,101,no test,not infected
+16,46,female,low,yes,103,no test,infected
+17,36,female,low,no,102,no test,infected
+18,62,female,medium,unknown,102,no test,not infected
+19,60,female,low,yes,98,no test,infected
+20,43,male,medium,unknown,98,no test,infected
+21,50,male,medium,unknown,99,no test,not infected
+22,31,female,medium,yes,101,no test,not infected
+23,41,female,low,yes,99,no test,not infected
+24,44,female,low,no,104,no test,infected
+25,62,male,medium,yes,101,no test,infected
+26,48,female,medium,unknown,100,no test,infected
+27,44,female,high,yes,101,no test,not infected
+28,29,female,low,yes,98,no test,infected
+29,47,male,medium,no,100,no test,infected
+30,24,male,medium,yes,102,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,43,male,low,no,100,no test,infected
+3,38,male,low,unknown,103,no test,infected
+4,41,female,medium,yes,103,no test,infected
+5,43,male,medium,unknown,98,no test,infected
+6,36,female,medium,unknown,102,no test,not infected
+7,37,female,high,yes,99,no test,not infected
+8,20,female,low,yes,102,no test,infected
+9,51,female,low,unknown,101,no test,not infected
+10,38,female,low,unknown,99,no test,infected
+11,39,male,low,unknown,100,no test,infected
+12,35,male,low,no,100,no test,infected
+13,47,female,medium,unknown,99,no test,infected
+14,41,female,low,yes,98,no test,not infected
+15,48,male,medium,no,102,no test,infected
+16,57,male,low,yes,99,no test,infected
+17,38,female,medium,unknown,98,no test,infected
+18,63,female,medium,no,98,no test,not infected
+19,26,female,medium,unknown,103,no test,infected
+20,56,male,high,unknown,101,no test,infected
+21,30,male,low,no,99,no test,infected
+22,36,male,medium,yes,99,no test,infected
+23,21,male,high,unknown,100,no test,not infected
+24,22,female,low,unknown,101,no test,not infected
+25,41,male,low,yes,102,no test,infected
+26,42,male,high,no,102,no test,not infected
+27,43,female,low,no,103,no test,not infected
+28,32,female,medium,yes,100,no test,not infected
+29,58,female,medium,yes,99,no test,not infected
+30,26,female,medium,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,32,male,low,unknown,100,no test,not infected
+3,37,female,low,no,103,no test,not infected
+4,42,female,low,yes,103,no test,infected
+5,50,female,low,yes,98,no test,infected
+6,29,male,low,no,99,no test,infected
+7,49,male,low,no,101,no test,infected
+8,41,female,low,unknown,98,no test,infected
+9,56,female,low,unknown,104,no test,infected
+10,58,male,medium,unknown,98,no test,infected
+11,44,female,low,no,98,no test,not infected
+12,50,male,high,unknown,104,no test,not infected
+13,43,male,low,unknown,102,no test,infected
+14,52,female,medium,no,101,no test,infected
+15,36,male,medium,yes,103,no test,infected
+16,39,female,low,yes,99,no test,not infected
+17,39,female,medium,no,100,no test,infected
+18,51,male,high,yes,102,no test,infected
+19,50,female,high,yes,103,no test,not infected
+20,36,male,low,yes,102,no test,infected
+21,57,female,high,unknown,102,no test,infected
+22,54,male,low,unknown,102,no test,not infected
+23,49,female,high,yes,99,no test,infected
+24,23,male,medium,unknown,103,no test,not infected
+25,42,female,medium,no,101,no test,infected
+26,32,female,high,unknown,100,no test,not infected
+27,44,male,medium,yes,101,no test,not infected
+28,56,female,medium,no,104,no test,infected
+29,57,male,medium,yes,104,no test,infected
+30,37,female,medium,yes,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,46,female,low,no,99,no test,not infected
+3,43,male,medium,no,104,no test,infected
+4,57,female,low,unknown,100,no test,not infected
+5,32,male,medium,unknown,99,no test,not infected
+6,37,female,medium,no,100,no test,not infected
+7,44,female,low,unknown,102,no test,infected
+8,43,female,low,unknown,103,no test,infected
+9,39,female,low,unknown,103,no test,infected
+10,57,male,high,unknown,99,no test,infected
+11,50,male,low,yes,101,no test,not infected
+12,39,female,medium,yes,98,no test,infected
+13,45,male,low,unknown,99,no test,infected
+14,36,male,medium,yes,98,no test,not infected
+15,41,female,medium,no,99,no test,not infected
+16,41,female,medium,unknown,101,no test,infected
+17,51,male,high,no,100,no test,not infected
+18,34,female,low,yes,99,no test,not infected
+19,47,male,low,yes,100,no test,not infected
+20,31,female,low,no,100,no test,infected
+21,46,female,medium,no,104,no test,infected
+22,42,male,medium,yes,102,no test,infected
+23,43,male,high,no,104,no test,infected
+24,31,female,high,unknown,104,no test,not infected
+25,28,male,medium,no,98,no test,not infected
+26,46,male,low,yes,103,no test,infected
+27,48,male,medium,unknown,103,no test,infected
+28,53,female,low,yes,104,no test,infected
+29,49,male,low,yes,100,no test,infected
+30,58,male,low,yes,99,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,37,female,medium,unknown,100,no test,not infected
+3,32,female,medium,yes,103,no test,infected
+4,38,male,medium,yes,101,no test,infected
+5,48,male,low,unknown,101,no test,infected
+6,38,male,medium,yes,99,no test,not infected
+7,57,female,high,yes,102,no test,not infected
+8,37,male,medium,no,99,no test,infected
+9,41,male,low,yes,98,no test,infected
+10,27,female,medium,unknown,103,no test,infected
+11,25,male,medium,yes,102,no test,not infected
+12,32,female,medium,yes,104,no test,not infected
+13,59,male,medium,unknown,101,no test,infected
+14,47,female,medium,no,98,no test,infected
+15,29,male,medium,yes,103,no test,infected
+16,50,female,medium,unknown,102,no test,infected
+17,41,male,low,yes,101,no test,not infected
+18,36,female,low,yes,100,no test,not infected
+19,64,male,medium,unknown,102,no test,not infected
+20,54,female,high,yes,101,no test,not infected
+21,35,male,low,no,98,no test,not infected
+22,37,female,medium,yes,103,no test,not infected
+23,40,female,medium,unknown,99,no test,infected
+24,36,male,medium,unknown,100,no test,not infected
+25,45,female,high,no,103,no test,infected
+26,31,male,low,yes,99,no test,infected
+27,35,female,medium,unknown,100,no test,not infected
+28,54,female,low,yes,100,no test,not infected
+29,43,male,medium,yes,98,no test,not infected
+30,50,male,medium,yes,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,49,male,medium,no,104,no test,infected
+3,42,male,high,unknown,104,no test,infected
+4,44,male,medium,unknown,104,no test,infected
+5,27,female,medium,yes,98,no test,not infected
+6,25,male,high,yes,100,no test,not infected
+7,34,female,medium,no,98,no test,not infected
+8,38,male,medium,unknown,100,no test,infected
+9,42,male,low,unknown,102,no test,infected
+10,57,male,low,no,103,no test,infected
+11,28,female,medium,unknown,98,no test,infected
+12,39,female,low,unknown,99,no test,not infected
+13,52,female,low,unknown,102,no test,infected
+14,40,female,medium,yes,101,no test,not infected
+15,43,female,medium,unknown,103,no test,not infected
+16,40,male,low,yes,104,no test,infected
+17,53,male,high,yes,99,no test,not infected
+18,45,male,medium,unknown,100,no test,infected
+19,25,female,medium,yes,98,no test,not infected
+20,36,male,medium,yes,98,no test,not infected
+21,34,female,medium,unknown,104,no test,infected
+22,43,male,high,unknown,100,no test,infected
+23,41,female,medium,no,101,no test,infected
+24,53,male,medium,unknown,102,no test,infected
+25,50,female,medium,unknown,102,no test,infected
+26,51,male,low,unknown,100,no test,infected
+27,49,male,medium,no,104,no test,infected
+28,27,male,low,no,100,no test,not infected
+29,33,female,low,yes,100,no test,not infected
+30,42,female,low,unknown,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,30,male,medium,yes,101,no test,not infected
+3,38,male,medium,yes,100,no test,not infected
+4,45,female,medium,unknown,102,no test,infected
+5,60,male,low,no,98,no test,not infected
+6,44,female,low,unknown,101,no test,infected
+7,60,male,medium,no,104,no test,not infected
+8,63,female,low,no,98,no test,infected
+9,53,male,high,no,99,no test,not infected
+10,49,male,low,yes,98,no test,not infected
+11,43,male,low,yes,104,no test,infected
+12,33,male,low,yes,102,no test,infected
+13,53,male,medium,unknown,102,no test,infected
+14,46,male,medium,unknown,100,no test,infected
+15,24,male,medium,yes,99,no test,infected
+16,47,female,medium,unknown,99,no test,infected
+17,47,female,medium,yes,98,no test,not infected
+18,51,male,medium,yes,102,no test,infected
+19,37,male,medium,unknown,100,no test,not infected
+20,29,female,low,unknown,98,no test,not infected
+21,61,male,medium,no,101,no test,not infected
+22,44,male,medium,yes,103,no test,not infected
+23,48,female,medium,unknown,99,no test,infected
+24,45,female,high,yes,100,no test,not infected
+25,39,male,medium,unknown,102,no test,not infected
+26,48,male,high,unknown,99,no test,infected
+27,31,female,medium,unknown,98,no test,not infected
+28,53,male,medium,unknown,104,no test,infected
+29,19,male,low,no,100,no test,infected
+30,28,male,medium,yes,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,24,female,low,unknown,100,no test,not infected
+3,45,female,medium,unknown,99,no test,not infected
+4,35,male,low,unknown,102,no test,not infected
+5,54,male,low,yes,101,no test,infected
+6,50,female,low,no,101,no test,infected
+7,34,female,high,yes,104,no test,infected
+8,56,female,medium,yes,102,no test,infected
+9,49,female,medium,yes,99,no test,not infected
+10,54,female,low,yes,101,no test,infected
+11,49,female,medium,yes,99,no test,infected
+12,20,female,high,unknown,103,no test,not infected
+13,38,male,low,unknown,103,no test,infected
+14,35,female,low,yes,103,no test,infected
+15,25,male,medium,yes,101,no test,not infected
+16,31,male,medium,unknown,104,no test,not infected
+17,23,female,low,unknown,98,no test,infected
+18,41,female,medium,yes,103,no test,not infected
+19,35,female,low,yes,101,no test,infected
+20,50,female,low,no,99,no test,infected
+21,42,female,low,yes,103,no test,not infected
+22,54,male,medium,yes,100,no test,not infected
+23,36,male,low,unknown,98,no test,not infected
+24,49,female,medium,unknown,100,no test,not infected
+25,29,male,low,no,98,no test,infected
+26,41,female,high,unknown,99,no test,infected
+27,47,male,medium,unknown,103,no test,infected
+28,61,female,medium,yes,100,no test,infected
+29,32,female,low,yes,99,no test,not infected
+30,45,female,medium,no,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,57,female,low,unknown,102,no test,infected
+3,52,female,low,unknown,99,no test,not infected
+4,52,female,low,unknown,102,no test,infected
+5,43,male,low,unknown,102,no test,infected
+6,47,female,low,unknown,104,no test,infected
+7,21,male,low,unknown,103,no test,not infected
+8,35,male,low,yes,103,no test,infected
+9,43,male,low,yes,102,no test,infected
+10,41,female,medium,unknown,104,no test,not infected
+11,49,male,medium,unknown,103,no test,infected
+12,39,male,low,unknown,102,no test,infected
+13,29,male,low,yes,103,no test,not infected
+14,34,male,low,yes,104,no test,infected
+15,50,male,low,unknown,99,no test,infected
+16,33,female,medium,yes,99,no test,infected
+17,36,male,low,unknown,100,no test,infected
+18,30,male,medium,no,102,no test,infected
+19,57,male,medium,yes,99,no test,not infected
+20,30,male,medium,no,103,no test,not infected
+21,59,female,low,unknown,98,no test,not infected
+22,46,male,low,yes,103,no test,not infected
+23,54,female,medium,no,103,no test,not infected
+24,48,male,medium,unknown,102,no test,not infected
+25,26,female,medium,unknown,102,no test,infected
+26,37,male,low,unknown,100,no test,infected
+27,56,female,medium,no,101,no test,infected
+28,43,male,low,unknown,104,no test,infected
+29,52,female,low,yes,103,no test,not infected
+30,19,female,medium,yes,99,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,50,female,low,yes,98,no test,not infected
+3,39,female,medium,unknown,99,no test,infected
+4,54,female,medium,yes,102,no test,infected
+5,43,female,medium,no,102,no test,infected
+6,36,male,high,no,103,no test,not infected
+7,31,male,medium,yes,101,no test,infected
+8,43,female,low,unknown,100,no test,not infected
+9,32,male,medium,no,101,no test,infected
+10,42,male,medium,yes,99,no test,infected
+11,52,male,low,unknown,101,no test,not infected
+12,45,female,high,no,99,no test,not infected
+13,44,male,medium,unknown,100,no test,infected
+14,54,female,medium,unknown,103,no test,infected
+15,36,male,low,unknown,100,no test,not infected
+16,39,female,low,unknown,101,no test,infected
+17,49,male,high,yes,99,no test,not infected
+18,44,female,low,no,101,no test,not infected
+19,56,male,high,yes,101,no test,not infected
+20,52,female,low,no,101,no test,infected
+21,40,male,medium,yes,103,no test,not infected
+22,50,female,high,yes,98,no test,infected
+23,54,male,low,unknown,99,no test,infected
+24,32,male,low,yes,102,no test,infected
+25,54,male,medium,no,98,no test,infected
+26,55,male,medium,yes,98,no test,not infected
+27,59,male,medium,no,103,no test,infected
+28,48,female,medium,yes,98,no test,not infected
+29,32,female,low,yes,99,no test,not infected
+30,20,male,low,yes,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,24,male,high,no,102,no test,infected
+3,44,female,high,unknown,103,no test,not infected
+4,26,male,high,no,98,no test,not infected
+5,53,male,low,no,104,no test,infected
+6,46,male,low,unknown,98,no test,infected
+7,38,female,low,yes,101,no test,infected
+8,55,male,high,yes,98,no test,not infected
+9,38,female,medium,unknown,104,no test,infected
+10,54,male,medium,no,98,no test,infected
+11,57,male,high,yes,98,no test,not infected
+12,23,female,medium,no,103,no test,not infected
+13,37,male,high,no,101,no test,infected
+14,38,male,medium,unknown,101,no test,infected
+15,56,female,medium,yes,99,no test,infected
+16,51,female,low,no,102,no test,infected
+17,63,female,medium,no,100,no test,infected
+18,24,female,low,no,98,no test,infected
+19,35,female,medium,unknown,103,no test,not infected
+20,34,male,low,no,103,no test,not infected
+21,34,male,low,unknown,103,no test,not infected
+22,44,male,low,yes,102,no test,infected
+23,23,male,medium,unknown,98,no test,not infected
+24,51,male,low,yes,98,no test,not infected
+25,28,male,medium,yes,98,no test,not infected
+26,45,male,medium,unknown,104,no test,infected
+27,39,female,high,no,102,no test,infected
+28,44,female,low,unknown,98,no test,not infected
+29,36,male,medium,yes,99,no test,not infected
+30,41,female,medium,unknown,103,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,47,male,medium,yes,103,no test,infected
+3,50,male,medium,unknown,98,no test,not infected
+4,59,female,medium,yes,98,no test,infected
+5,58,male,medium,yes,101,no test,infected
+6,50,male,medium,unknown,99,no test,not infected
+7,52,female,medium,unknown,103,no test,infected
+8,55,female,low,no,102,no test,infected
+9,21,male,medium,unknown,102,no test,not infected
+10,25,male,medium,unknown,98,no test,not infected
+11,41,male,low,unknown,104,no test,infected
+12,37,female,medium,no,104,no test,infected
+13,46,female,low,yes,103,no test,not infected
+14,46,male,high,yes,98,no test,not infected
+15,22,male,medium,unknown,103,no test,infected
+16,27,male,low,yes,103,no test,infected
+17,39,male,medium,unknown,100,no test,not infected
+18,33,female,medium,yes,99,no test,not infected
+19,59,male,low,yes,100,no test,not infected
+20,45,female,medium,yes,104,no test,not infected
+21,50,male,low,no,98,no test,infected
+22,64,female,high,yes,98,no test,not infected
+23,41,male,low,unknown,101,no test,infected
+24,29,female,medium,no,99,no test,not infected
+25,36,female,low,unknown,98,no test,not infected
+26,65,male,low,yes,98,no test,infected
+27,36,male,low,unknown,104,no test,not infected
+28,40,female,low,no,99,no test,infected
+29,30,female,medium,unknown,100,no test,not infected
+30,36,female,low,no,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,56,male,high,yes,102,no test,not infected
+3,39,male,medium,no,104,no test,infected
+4,53,male,medium,no,103,no test,not infected
+5,43,female,medium,no,103,no test,infected
+6,30,female,medium,no,102,no test,not infected
+7,35,male,medium,yes,98,no test,infected
+8,52,female,medium,no,99,no test,infected
+9,42,male,medium,yes,104,no test,infected
+10,42,male,medium,yes,100,no test,not infected
+11,22,female,low,yes,100,no test,not infected
+12,41,male,high,yes,99,no test,not infected
+13,40,female,medium,no,101,no test,not infected
+14,56,male,medium,unknown,99,no test,not infected
+15,33,female,medium,no,100,no test,infected
+16,44,male,medium,unknown,102,no test,infected
+17,42,male,low,unknown,101,no test,infected
+18,40,female,medium,yes,99,no test,infected
+19,38,male,high,no,104,no test,infected
+20,50,female,medium,yes,101,no test,not infected
+21,26,female,medium,unknown,101,no test,not infected
+22,38,male,high,no,99,no test,not infected
+23,54,female,high,yes,100,no test,infected
+24,56,female,low,unknown,103,no test,not infected
+25,53,female,medium,unknown,100,no test,infected
+26,35,female,low,no,99,no test,not infected
+27,38,male,low,unknown,101,no test,infected
+28,33,male,medium,unknown,102,no test,not infected
+29,46,male,medium,yes,100,no test,infected
+30,38,female,medium,yes,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,44,female,medium,yes,102,no test,infected
+3,43,male,high,no,101,no test,infected
+4,28,male,high,unknown,99,no test,not infected
+5,59,male,medium,yes,98,no test,infected
+6,57,male,medium,no,102,no test,infected
+7,40,female,high,yes,103,no test,infected
+8,56,male,medium,yes,103,no test,infected
+9,53,female,high,yes,99,no test,not infected
+10,42,female,medium,unknown,100,no test,infected
+11,44,female,medium,no,103,no test,infected
+12,61,female,low,no,101,no test,infected
+13,38,female,medium,no,100,no test,infected
+14,48,female,medium,yes,104,no test,infected
+15,62,male,low,no,99,no test,not infected
+16,23,male,medium,unknown,102,no test,not infected
+17,48,female,medium,yes,99,no test,infected
+18,49,male,medium,no,98,no test,infected
+19,39,female,low,unknown,100,no test,infected
+20,45,female,medium,yes,99,no test,not infected
+21,51,male,medium,yes,100,no test,not infected
+22,43,female,low,unknown,104,no test,not infected
+23,50,female,low,no,100,no test,infected
+24,46,male,low,yes,103,no test,infected
+25,39,female,medium,unknown,99,no test,infected
+26,33,female,medium,yes,103,no test,not infected
+27,25,male,high,no,104,no test,not infected
+28,45,male,medium,no,101,no test,infected
+29,45,male,low,unknown,99,no test,infected
+30,37,male,medium,yes,101,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,50,female,low,unknown,100,no test,infected
+3,42,male,low,yes,101,no test,not infected
+4,59,female,medium,yes,103,no test,infected
+5,43,female,medium,no,101,no test,infected
+6,37,male,medium,no,99,no test,not infected
+7,46,male,medium,no,102,no test,not infected
+8,47,female,medium,no,104,no test,not infected
+9,56,female,high,yes,102,no test,infected
+10,61,female,medium,yes,99,no test,not infected
+11,31,female,medium,yes,99,no test,not infected
+12,35,female,high,unknown,99,no test,not infected
+13,31,male,low,yes,103,no test,infected
+14,50,male,medium,yes,100,no test,not infected
+15,45,male,high,unknown,101,no test,infected
+16,49,male,medium,unknown,104,no test,infected
+17,31,female,medium,unknown,102,no test,infected
+18,30,male,low,yes,99,no test,not infected
+19,30,male,medium,yes,100,no test,not infected
+20,41,male,low,yes,100,no test,not infected
+21,43,female,low,unknown,103,no test,not infected
+22,43,female,medium,no,104,no test,infected
+23,22,female,low,yes,100,no test,not infected
+24,28,female,medium,no,104,no test,not infected
+25,29,male,medium,yes,103,no test,infected
+26,36,female,medium,yes,101,no test,infected
+27,37,male,low,yes,98,no test,not infected
+28,40,male,low,yes,100,no test,not infected
+29,21,female,medium,no,98,no test,infected
+30,56,male,low,yes,100,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,38,male,low,unknown,99,no test,infected
+3,23,male,low,yes,101,no test,not infected
+4,25,female,medium,unknown,99,no test,not infected
+5,36,female,high,no,98,no test,not infected
+6,56,male,low,yes,99,no test,not infected
+7,47,male,low,yes,100,no test,infected
+8,55,male,high,unknown,102,no test,not infected
+9,48,male,high,yes,99,no test,not infected
+10,42,male,medium,no,100,no test,infected
+11,50,male,high,yes,100,no test,not infected
+12,59,female,medium,no,99,no test,infected
+13,30,female,low,unknown,101,no test,not infected
+14,39,female,medium,yes,98,no test,infected
+15,40,male,low,yes,101,no test,not infected
+16,43,female,medium,unknown,101,no test,infected
+17,41,female,high,no,104,no test,infected
+18,55,female,high,yes,103,no test,infected
+19,38,female,medium,no,104,no test,infected
+20,47,male,low,no,103,no test,infected
+21,41,male,high,yes,103,no test,infected
+22,60,female,low,yes,102,no test,infected
+23,55,female,medium,yes,98,no test,infected
+24,24,female,medium,no,104,no test,infected
+25,36,female,medium,yes,100,no test,not infected
+26,38,male,medium,unknown,103,no test,infected
+27,50,male,low,yes,101,no test,not infected
+28,54,male,medium,unknown,102,no test,infected
+29,48,male,low,unknown,102,no test,not infected
+30,47,female,medium,unknown,101,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,56,male,medium,no,100,no test,not infected
+3,43,male,low,no,102,no test,infected
+4,47,female,medium,no,101,no test,infected
+5,41,female,low,yes,104,no test,infected
+6,54,female,medium,yes,99,no test,not infected
+7,42,female,medium,yes,99,no test,not infected
+8,38,male,medium,no,99,no test,not infected
+9,35,female,medium,yes,101,no test,infected
+10,45,female,medium,yes,101,no test,not infected
+11,37,male,low,unknown,100,no test,not infected
+12,42,male,medium,unknown,104,no test,infected
+13,41,female,medium,yes,100,no test,infected
+14,38,female,high,no,103,no test,infected
+15,22,male,low,unknown,101,no test,not infected
+16,35,female,low,unknown,103,no test,not infected
+17,41,male,medium,yes,98,no test,not infected
+18,48,female,low,no,101,no test,not infected
+19,61,male,low,yes,101,no test,not infected
+20,40,female,low,yes,101,no test,not infected
+21,46,male,medium,unknown,104,no test,not infected
+22,45,male,low,no,101,no test,infected
+23,52,female,low,unknown,104,no test,infected
+24,30,male,high,unknown,104,no test,not infected
+25,35,male,low,no,99,no test,infected
+26,26,male,low,yes,98,no test,not infected
+27,35,female,medium,no,100,no test,not infected
+28,27,female,medium,unknown,104,no test,not infected
+29,34,male,medium,unknown,102,no test,not infected
+30,56,female,medium,yes,102,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,61,male,medium,no,104,no test,not infected
+3,38,male,low,yes,104,no test,infected
+4,59,male,medium,yes,98,no test,not infected
+5,44,male,low,unknown,99,no test,infected
+6,42,female,medium,yes,103,no test,infected
+7,34,female,low,unknown,102,no test,not infected
+8,43,male,medium,no,98,no test,infected
+9,41,female,low,yes,98,no test,not infected
+10,36,male,low,no,103,no test,not infected
+11,54,female,medium,no,98,no test,infected
+12,44,female,medium,no,102,no test,not infected
+13,47,female,low,unknown,103,no test,infected
+14,49,male,low,yes,104,no test,not infected
+15,60,female,high,unknown,104,no test,infected
+16,51,female,medium,unknown,98,no test,not infected
+17,61,female,low,unknown,103,no test,not infected
+18,57,female,medium,no,104,no test,not infected
+19,44,female,medium,unknown,102,no test,infected
+20,40,male,medium,no,102,no test,infected
+21,20,female,medium,unknown,98,no test,not infected
+22,43,female,medium,yes,98,no test,not infected
+23,46,female,medium,yes,101,no test,infected
+24,43,female,medium,unknown,98,no test,infected
+25,43,male,low,no,102,no test,infected
+26,36,male,low,unknown,104,no test,infected
+27,40,female,medium,unknown,100,no test,not infected
+28,58,female,low,yes,98,no test,not infected
+29,38,male,medium,yes,98,no test,infected
+30,36,female,medium,unknown,102,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,27,female,high,unknown,100,no test,not infected
+3,46,male,medium,yes,101,no test,not infected
+4,25,male,low,no,103,no test,infected
+5,49,female,low,unknown,101,no test,infected
+6,39,female,medium,yes,98,no test,not infected
+7,29,female,low,no,101,no test,not infected
+8,44,female,medium,yes,99,no test,not infected
+9,41,female,low,yes,104,no test,infected
+10,29,female,high,yes,98,no test,not infected
+11,48,female,high,yes,101,no test,not infected
+12,46,female,high,no,100,no test,not infected
+13,35,female,medium,unknown,104,no test,infected
+14,48,female,medium,yes,104,no test,infected
+15,27,male,low,unknown,103,no test,not infected
+16,25,male,medium,unknown,101,no test,infected
+17,39,female,medium,unknown,101,no test,infected
+18,43,male,medium,unknown,101,no test,not infected
+19,58,female,low,yes,103,no test,infected
+20,33,male,low,yes,100,no test,not infected
+21,39,female,medium,unknown,99,no test,infected
+22,41,male,medium,yes,98,no test,not infected
+23,64,male,low,unknown,98,no test,infected
+24,53,female,low,no,104,no test,not infected
+25,33,female,high,no,98,no test,not infected
+26,62,male,medium,yes,101,no test,not infected
+27,42,male,medium,yes,98,no test,not infected
+28,52,male,medium,yes,99,no test,not infected
+29,44,male,medium,no,103,no test,infected
+30,34,female,medium,unknown,100,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,46,female,low,unknown,101,no test,infected
+3,45,male,medium,unknown,100,no test,infected
+4,49,female,low,unknown,104,no test,infected
+5,32,male,medium,no,103,no test,not infected
+6,29,female,medium,yes,101,no test,not infected
+7,44,female,medium,unknown,98,no test,infected
+8,36,female,medium,no,101,no test,not infected
+9,29,female,low,no,103,no test,infected
+10,46,male,high,unknown,99,no test,infected
+11,22,male,medium,yes,100,no test,not infected
+12,42,male,medium,yes,101,no test,not infected
+13,26,female,medium,yes,99,no test,infected
+14,41,male,low,no,102,no test,infected
+15,41,female,medium,no,101,no test,not infected
+16,40,female,low,no,103,no test,not infected
+17,61,male,medium,yes,98,no test,infected
+18,37,male,medium,yes,103,no test,infected
+19,22,male,medium,unknown,101,no test,infected
+20,39,male,low,yes,101,no test,not infected
+21,45,male,medium,yes,98,no test,not infected
+22,45,female,medium,unknown,99,no test,infected
+23,41,male,low,unknown,102,no test,not infected
+24,40,female,medium,unknown,103,no test,infected
+25,57,female,medium,yes,100,no test,infected
+26,38,female,high,no,98,no test,infected
+27,63,male,medium,no,99,no test,not infected
+28,48,male,medium,no,101,no test,infected
+29,33,female,high,no,103,no test,not infected
+30,34,male,medium,yes,102,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,55,female,low,no,99,no test,not infected
+3,52,female,low,no,99,no test,infected
+4,27,female,medium,no,101,no test,infected
+5,25,female,low,yes,101,no test,infected
+6,62,male,low,yes,103,no test,infected
+7,29,female,medium,unknown,104,no test,infected
+8,56,female,medium,unknown,102,no test,infected
+9,27,female,medium,unknown,101,no test,infected
+10,37,male,medium,yes,101,no test,infected
+11,39,female,medium,unknown,104,no test,infected
+12,45,male,medium,yes,104,no test,infected
+13,35,male,low,yes,101,no test,not infected
+14,54,female,medium,unknown,104,no test,not infected
+15,46,male,low,no,101,no test,not infected
+16,56,male,low,unknown,101,no test,not infected
+17,38,female,low,no,100,no test,not infected
+18,44,female,high,yes,100,no test,not infected
+19,40,male,medium,yes,102,no test,not infected
+20,60,female,low,yes,103,no test,infected
+21,42,female,medium,unknown,101,no test,infected
+22,35,male,low,yes,101,no test,infected
+23,33,male,medium,yes,103,no test,infected
+24,48,female,medium,yes,104,no test,infected
+25,49,female,high,no,103,no test,infected
+26,57,female,medium,unknown,104,no test,not infected
+27,42,male,medium,yes,103,no test,infected
+28,43,male,low,yes,104,no test,not infected
+29,28,female,medium,yes,100,no test,not infected
+30,52,male,medium,unknown,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,47,female,medium,unknown,100,no test,infected
+3,32,male,medium,unknown,103,no test,not infected
+4,32,male,medium,yes,101,no test,not infected
+5,39,female,low,yes,100,no test,infected
+6,38,female,low,yes,99,no test,not infected
+7,27,female,low,yes,100,no test,infected
+8,27,female,low,no,100,no test,infected
+9,21,female,medium,unknown,104,no test,not infected
+10,46,female,high,yes,99,no test,infected
+11,55,male,high,unknown,102,no test,infected
+12,42,male,low,unknown,98,no test,infected
+13,48,male,medium,no,101,no test,infected
+14,40,female,medium,no,99,no test,infected
+15,26,female,low,no,100,no test,not infected
+16,44,female,high,unknown,101,no test,infected
+17,51,female,low,unknown,102,no test,not infected
+18,58,female,medium,yes,101,no test,not infected
+19,49,male,low,yes,100,no test,infected
+20,25,male,high,yes,104,no test,infected
+21,37,female,medium,unknown,103,no test,not infected
+22,36,male,low,unknown,103,no test,not infected
+23,45,male,medium,yes,104,no test,infected
+24,59,male,low,yes,101,no test,not infected
+25,40,male,medium,no,98,no test,not infected
+26,22,female,high,unknown,100,no test,infected
+27,27,male,low,yes,103,no test,not infected
+28,40,female,medium,yes,99,no test,not infected
+29,54,male,medium,unknown,102,no test,infected
+30,38,male,low,yes,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,48,female,medium,yes,100,no test,not infected
+3,40,male,medium,yes,104,no test,infected
+4,45,female,low,unknown,98,no test,infected
+5,54,male,low,unknown,102,no test,infected
+6,38,male,low,unknown,98,no test,infected
+7,61,female,medium,no,101,no test,infected
+8,52,male,high,no,101,no test,not infected
+9,46,male,medium,yes,101,no test,not infected
+10,37,male,low,yes,102,no test,not infected
+11,26,male,medium,yes,104,no test,infected
+12,26,male,high,no,102,no test,not infected
+13,57,male,medium,no,99,no test,infected
+14,50,male,medium,unknown,100,no test,infected
+15,43,female,medium,yes,102,no test,infected
+16,65,female,medium,no,103,no test,infected
+17,37,female,low,yes,101,no test,not infected
+18,34,female,low,yes,100,no test,not infected
+19,37,male,medium,no,99,no test,not infected
+20,33,female,high,yes,100,no test,not infected
+21,51,female,low,yes,104,no test,infected
+22,41,female,high,yes,100,no test,not infected
+23,32,female,low,unknown,98,no test,infected
+24,41,male,low,no,104,no test,infected
+25,45,male,medium,yes,100,no test,not infected
+26,23,female,high,unknown,99,no test,not infected
+27,45,male,medium,unknown,103,no test,infected
+28,58,male,medium,unknown,104,no test,infected
+29,54,male,medium,unknown,99,no test,infected
+30,21,male,high,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,51,female,low,unknown,103,no test,not infected
+3,35,female,medium,no,101,no test,not infected
+4,49,female,high,yes,100,no test,infected
+5,62,male,low,yes,103,no test,not infected
+6,44,male,medium,yes,99,no test,not infected
+7,62,male,medium,no,102,no test,infected
+8,39,male,medium,unknown,103,no test,infected
+9,23,male,medium,unknown,98,no test,not infected
+10,46,male,medium,unknown,98,no test,infected
+11,54,male,low,unknown,103,no test,infected
+12,42,female,medium,unknown,102,no test,infected
+13,39,female,low,no,104,no test,infected
+14,30,female,medium,unknown,103,no test,not infected
+15,59,male,low,unknown,98,no test,infected
+16,51,female,medium,no,99,no test,infected
+17,28,female,high,yes,99,no test,not infected
+18,39,male,high,no,101,no test,infected
+19,38,female,medium,yes,102,no test,not infected
+20,36,female,medium,unknown,98,no test,infected
+21,62,male,medium,yes,99,no test,not infected
+22,22,male,medium,unknown,98,no test,infected
+23,51,male,low,yes,103,no test,infected
+24,59,female,medium,yes,103,no test,infected
+25,60,female,medium,no,98,no test,infected
+26,60,female,low,unknown,102,no test,infected
+27,28,male,low,yes,103,no test,infected
+28,36,female,medium,yes,104,no test,infected
+29,22,female,low,yes,100,no test,not infected
+30,50,female,medium,yes,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,56,male,low,unknown,98,no test,infected
+3,46,female,low,no,104,no test,infected
+4,52,male,medium,no,102,no test,infected
+5,30,male,medium,unknown,103,no test,not infected
+6,38,male,low,unknown,100,no test,infected
+7,29,female,medium,unknown,103,no test,not infected
+8,49,female,low,unknown,103,no test,infected
+9,56,male,low,yes,100,no test,infected
+10,44,male,medium,no,99,no test,not infected
+11,44,female,low,no,100,no test,not infected
+12,41,female,low,no,102,no test,infected
+13,59,male,medium,unknown,101,no test,not infected
+14,50,male,low,no,103,no test,not infected
+15,31,female,low,no,98,no test,not infected
+16,27,male,high,no,101,no test,infected
+17,51,male,medium,yes,102,no test,infected
+18,54,female,low,yes,103,no test,infected
+19,33,male,medium,unknown,98,no test,not infected
+20,41,male,medium,yes,103,no test,infected
+21,26,female,medium,yes,102,no test,infected
+22,60,female,medium,no,99,no test,not infected
+23,32,female,medium,no,104,no test,not infected
+24,43,female,high,no,100,no test,infected
+25,46,female,medium,yes,100,no test,infected
+26,39,male,low,unknown,101,no test,infected
+27,57,female,medium,unknown,101,no test,infected
+28,50,male,medium,unknown,102,no test,infected
+29,48,male,medium,yes,100,no test,infected
+30,48,female,medium,yes,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,48,female,low,unknown,100,no test,not infected
+3,31,male,high,unknown,101,no test,not infected
+4,50,male,medium,unknown,103,no test,infected
+5,31,female,low,yes,103,no test,infected
+6,52,male,medium,no,102,no test,infected
+7,40,female,high,yes,102,no test,infected
+8,57,male,high,yes,101,no test,not infected
+9,61,male,low,unknown,99,no test,infected
+10,38,male,low,yes,101,no test,not infected
+11,45,female,medium,unknown,104,no test,infected
+12,61,male,low,yes,101,no test,not infected
+13,41,male,medium,yes,101,no test,not infected
+14,40,female,low,unknown,100,no test,infected
+15,31,female,medium,no,102,no test,not infected
+16,31,female,low,yes,100,no test,not infected
+17,63,female,low,unknown,102,no test,infected
+18,41,female,high,unknown,101,no test,infected
+19,42,male,low,yes,102,no test,infected
+20,30,female,medium,no,99,no test,not infected
+21,62,female,medium,unknown,100,no test,not infected
+22,21,male,medium,unknown,101,no test,infected
+23,46,female,medium,yes,99,no test,not infected
+24,37,female,medium,no,99,no test,not infected
+25,57,male,high,yes,104,no test,infected
+26,45,male,medium,yes,102,no test,infected
+27,49,female,high,no,104,no test,infected
+28,45,male,low,yes,99,no test,not infected
+29,32,female,medium,no,99,no test,infected
+30,31,male,medium,no,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,34,female,medium,no,98,no test,infected
+3,55,female,medium,yes,101,no test,not infected
+4,61,male,low,yes,101,no test,not infected
+5,43,male,high,yes,100,no test,not infected
+6,44,male,medium,no,98,no test,infected
+7,25,female,low,unknown,102,no test,infected
+8,40,female,low,yes,99,no test,not infected
+9,27,female,low,yes,102,no test,infected
+10,44,female,low,yes,104,no test,infected
+11,39,female,medium,unknown,100,no test,infected
+12,58,male,medium,unknown,101,no test,infected
+13,56,female,low,no,100,no test,not infected
+14,37,male,low,no,104,no test,infected
+15,47,male,medium,yes,98,no test,not infected
+16,42,female,low,unknown,102,no test,infected
+17,37,male,medium,yes,100,no test,not infected
+18,62,female,medium,yes,99,no test,not infected
+19,54,male,low,yes,103,no test,infected
+20,59,male,low,unknown,101,no test,infected
+21,58,female,medium,yes,99,no test,infected
+22,43,female,low,unknown,99,no test,infected
+23,64,male,medium,unknown,104,no test,infected
+24,32,male,low,no,102,no test,infected
+25,37,female,low,unknown,102,no test,not infected
+26,33,female,medium,no,104,no test,not infected
+27,29,female,medium,unknown,98,no test,not infected
+28,59,male,low,no,102,no test,infected
+29,65,male,low,unknown,98,no test,not infected
+30,47,female,low,unknown,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,57,male,low,no,104,no test,infected
+3,63,male,low,unknown,101,no test,not infected
+4,43,male,low,no,98,no test,infected
+5,36,male,medium,yes,101,no test,infected
+6,61,female,medium,no,98,no test,infected
+7,31,male,medium,no,104,no test,not infected
+8,55,female,low,yes,101,no test,not infected
+9,30,male,medium,no,99,no test,not infected
+10,39,female,medium,no,104,no test,infected
+11,50,female,low,unknown,103,no test,infected
+12,54,female,low,yes,103,no test,infected
+13,43,female,medium,no,100,no test,infected
+14,35,male,high,yes,103,no test,infected
+15,30,female,medium,yes,99,no test,not infected
+16,27,female,low,unknown,100,no test,not infected
+17,54,male,medium,no,102,no test,infected
+18,41,male,medium,unknown,104,no test,infected
+19,52,male,medium,yes,104,no test,not infected
+20,26,male,low,yes,98,no test,not infected
+21,22,female,medium,unknown,100,no test,infected
+22,30,female,medium,no,102,no test,infected
+23,39,female,low,unknown,99,no test,infected
+24,47,male,high,unknown,98,no test,not infected
+25,52,male,high,unknown,100,no test,infected
+26,42,male,medium,yes,98,no test,not infected
+27,51,male,low,yes,103,no test,infected
+28,36,female,low,no,99,no test,infected
+29,57,female,low,no,103,no test,infected
+30,37,male,medium,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,45,female,medium,no,98,no test,not infected
+3,56,male,low,no,100,no test,not infected
+4,53,male,medium,no,103,no test,infected
+5,36,female,medium,unknown,103,no test,not infected
+6,34,male,medium,no,100,no test,not infected
+7,60,male,medium,yes,101,no test,not infected
+8,36,female,medium,unknown,99,no test,not infected
+9,31,female,low,yes,101,no test,not infected
+10,59,female,low,yes,99,no test,not infected
+11,39,female,medium,no,104,no test,not infected
+12,39,female,low,yes,102,no test,infected
+13,25,male,medium,unknown,104,no test,infected
+14,37,male,medium,yes,100,no test,not infected
+15,37,male,high,yes,103,no test,infected
+16,43,male,medium,unknown,100,no test,infected
+17,43,female,medium,no,101,no test,infected
+18,51,female,low,unknown,101,no test,not infected
+19,32,male,low,yes,99,no test,infected
+20,61,male,high,unknown,100,no test,infected
+21,38,male,high,yes,98,no test,infected
+22,30,female,low,unknown,103,no test,infected
+23,24,female,low,no,99,no test,infected
+24,34,male,medium,no,99,no test,not infected
+25,35,male,low,unknown,100,no test,not infected
+26,47,female,low,no,99,no test,not infected
+27,36,female,low,no,101,no test,infected
+28,50,male,low,no,102,no test,infected
+29,39,male,medium,unknown,100,no test,infected
+30,50,female,low,yes,101,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,24,male,high,yes,100,no test,not infected
+3,56,male,medium,unknown,104,no test,infected
+4,39,male,medium,yes,104,no test,infected
+5,60,male,medium,unknown,103,no test,infected
+6,55,male,low,no,98,no test,infected
+7,41,male,high,no,104,no test,not infected
+8,52,female,low,yes,98,no test,infected
+9,53,female,low,yes,98,no test,infected
+10,25,female,low,unknown,104,no test,not infected
+11,47,male,low,unknown,101,no test,infected
+12,30,female,medium,unknown,100,no test,infected
+13,43,female,medium,unknown,98,no test,not infected
+14,32,male,low,yes,104,no test,infected
+15,41,male,medium,yes,99,no test,not infected
+16,37,female,medium,yes,104,no test,infected
+17,44,male,high,unknown,101,no test,infected
+18,55,male,low,yes,100,no test,infected
+19,40,female,high,yes,100,no test,infected
+20,39,female,medium,unknown,101,no test,not infected
+21,39,female,medium,no,99,no test,infected
+22,31,female,high,no,103,no test,not infected
+23,40,male,medium,no,100,no test,infected
+24,55,female,low,no,99,no test,infected
+25,37,male,medium,yes,102,no test,infected
+26,44,male,low,unknown,101,no test,not infected
+27,55,female,medium,no,104,no test,infected
+28,46,female,low,yes,98,no test,infected
+29,30,male,medium,yes,101,no test,infected
+30,45,male,medium,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,21,male,medium,yes,102,no test,infected
+3,55,female,high,no,99,no test,not infected
+4,37,female,medium,yes,102,no test,infected
+5,40,male,high,yes,102,no test,infected
+6,40,male,medium,unknown,103,no test,infected
+7,40,female,high,unknown,98,no test,infected
+8,36,male,medium,yes,103,no test,infected
+9,35,male,medium,yes,102,no test,not infected
+10,42,female,medium,unknown,99,no test,infected
+11,52,male,high,unknown,98,no test,infected
+12,29,female,medium,yes,101,no test,not infected
+13,34,female,low,yes,103,no test,infected
+14,62,male,medium,yes,99,no test,infected
+15,42,male,medium,unknown,100,no test,infected
+16,37,female,medium,unknown,101,no test,not infected
+17,56,female,low,no,103,no test,infected
+18,36,male,medium,no,104,no test,not infected
+19,49,female,high,yes,98,no test,not infected
+20,43,female,medium,unknown,103,no test,infected
+21,33,male,low,no,103,no test,infected
+22,32,male,low,unknown,99,no test,not infected
+23,36,male,medium,yes,103,no test,not infected
+24,51,female,medium,yes,99,no test,not infected
+25,56,male,medium,unknown,101,no test,infected
+26,34,female,medium,yes,101,no test,infected
+27,50,female,low,no,103,no test,not infected
+28,24,female,low,yes,101,no test,infected
+29,31,male,medium,unknown,101,no test,not infected
+30,37,female,medium,no,102,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,30,female,medium,yes,99,no test,infected
+3,51,female,low,no,103,no test,not infected
+4,47,male,low,yes,102,no test,infected
+5,37,male,medium,unknown,99,no test,not infected
+6,58,female,medium,yes,103,no test,infected
+7,35,female,medium,unknown,104,no test,not infected
+8,23,female,medium,unknown,101,no test,infected
+9,43,female,medium,yes,100,no test,infected
+10,60,male,medium,yes,100,no test,infected
+11,54,male,low,yes,100,no test,not infected
+12,43,male,medium,yes,103,no test,not infected
+13,45,female,medium,yes,99,no test,infected
+14,31,male,medium,yes,99,no test,infected
+15,51,female,low,unknown,99,no test,infected
+16,34,female,medium,unknown,102,no test,not infected
+17,31,female,low,no,99,no test,not infected
+18,33,female,medium,no,103,no test,not infected
+19,40,male,medium,no,99,no test,infected
+20,33,female,medium,yes,99,no test,not infected
+21,47,female,high,unknown,102,no test,not infected
+22,29,female,medium,no,99,no test,not infected
+23,35,male,medium,unknown,99,no test,not infected
+24,42,female,medium,yes,98,no test,not infected
+25,39,female,medium,no,99,no test,not infected
+26,20,male,medium,unknown,104,no test,infected
+27,46,female,medium,unknown,98,no test,infected
+28,23,female,medium,yes,98,no test,not infected
+29,27,female,medium,yes,100,no test,infected
+30,59,female,medium,no,104,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,55,female,low,unknown,98,no test,not infected
+3,50,female,low,unknown,103,no test,infected
+4,39,female,low,yes,101,no test,infected
+5,62,male,medium,unknown,103,no test,not infected
+6,54,male,medium,yes,101,no test,infected
+7,31,female,low,unknown,98,no test,not infected
+8,28,male,medium,no,104,no test,infected
+9,44,female,low,unknown,104,no test,infected
+10,49,female,medium,unknown,103,no test,infected
+11,42,female,low,yes,102,no test,not infected
+12,38,male,medium,yes,99,no test,not infected
+13,43,male,medium,unknown,101,no test,infected
+14,44,male,high,yes,99,no test,not infected
+15,41,female,low,yes,99,no test,not infected
+16,39,female,medium,yes,104,no test,infected
+17,26,male,medium,no,99,no test,not infected
+18,39,female,high,unknown,103,no test,not infected
+19,36,male,medium,yes,99,no test,infected
+20,38,female,medium,yes,102,no test,infected
+21,47,female,high,no,103,no test,infected
+22,33,male,medium,unknown,99,no test,not infected
+23,64,female,medium,yes,101,no test,not infected
+24,55,female,medium,yes,99,no test,not infected
+25,32,male,low,yes,98,no test,infected
+26,29,female,high,yes,99,no test,not infected
+27,29,male,medium,no,104,no test,not infected
+28,38,male,medium,unknown,104,no test,infected
+29,42,female,medium,yes,99,no test,not infected
+30,32,female,high,yes,102,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,55,female,low,unknown,102,no test,infected
+3,59,male,low,unknown,101,no test,infected
+4,41,female,medium,no,102,no test,infected
+5,54,male,low,yes,104,no test,infected
+6,55,female,medium,unknown,103,no test,infected
+7,41,female,high,no,99,no test,infected
+8,49,male,low,yes,98,no test,not infected
+9,28,male,medium,unknown,102,no test,not infected
+10,22,female,medium,unknown,104,no test,infected
+11,50,male,low,yes,100,no test,not infected
+12,44,male,low,yes,102,no test,infected
+13,23,female,medium,unknown,101,no test,not infected
+14,54,male,medium,yes,101,no test,not infected
+15,43,male,medium,unknown,101,no test,not infected
+16,31,female,medium,no,102,no test,not infected
+17,55,male,high,unknown,102,no test,infected
+18,55,male,low,no,101,no test,not infected
+19,47,male,low,unknown,104,no test,not infected
+20,61,female,low,yes,98,no test,not infected
+21,56,female,medium,yes,102,no test,infected
+22,45,male,medium,no,100,no test,infected
+23,26,male,medium,yes,103,no test,infected
+24,26,female,medium,yes,104,no test,infected
+25,48,female,high,unknown,102,no test,infected
+26,37,female,low,yes,103,no test,infected
+27,18,female,low,yes,100,no test,infected
+28,41,male,low,no,98,no test,not infected
+29,46,male,low,no,103,no test,infected
+30,50,female,medium,yes,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,46,male,medium,yes,102,no test,infected
+3,40,female,medium,yes,103,no test,not infected
+4,38,male,low,unknown,103,no test,not infected
+5,47,female,medium,yes,103,no test,infected
+6,27,male,medium,no,101,no test,infected
+7,41,male,medium,no,98,no test,infected
+8,50,female,medium,unknown,99,no test,not infected
+9,46,female,low,yes,101,no test,not infected
+10,29,male,low,unknown,104,no test,not infected
+11,48,male,low,yes,104,no test,infected
+12,26,male,low,no,99,no test,infected
+13,57,female,medium,no,99,no test,infected
+14,60,female,low,unknown,98,no test,infected
+15,59,male,medium,unknown,98,no test,not infected
+16,35,male,high,no,104,no test,not infected
+17,31,female,medium,yes,98,no test,not infected
+18,45,male,low,yes,98,no test,not infected
+19,42,male,high,unknown,102,no test,infected
+20,21,male,medium,no,101,no test,not infected
+21,39,female,low,unknown,101,no test,infected
+22,42,female,low,unknown,98,no test,not infected
+23,47,male,low,unknown,102,no test,infected
+24,28,male,low,unknown,100,no test,infected
+25,38,male,medium,no,99,no test,infected
+26,27,female,low,unknown,100,no test,infected
+27,53,male,low,unknown,98,no test,not infected
+28,41,male,low,unknown,100,no test,not infected
+29,32,male,medium,yes,99,no test,not infected
+30,57,female,medium,no,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,38,male,medium,yes,98,no test,infected
+3,40,male,low,yes,98,no test,infected
+4,45,male,medium,unknown,98,no test,infected
+5,33,female,low,yes,102,no test,infected
+6,26,female,low,unknown,104,no test,not infected
+7,38,female,low,unknown,100,no test,infected
+8,47,female,low,unknown,102,no test,infected
+9,64,female,medium,unknown,102,no test,infected
+10,23,male,medium,unknown,104,no test,not infected
+11,32,male,medium,unknown,100,no test,not infected
+12,31,female,high,yes,101,no test,not infected
+13,40,female,high,unknown,100,no test,infected
+14,60,female,low,no,101,no test,infected
+15,41,female,medium,unknown,99,no test,not infected
+16,26,male,low,unknown,102,no test,not infected
+17,39,female,high,no,103,no test,infected
+18,21,male,medium,unknown,99,no test,infected
+19,43,female,medium,no,102,no test,not infected
+20,19,female,low,unknown,102,no test,not infected
+21,43,male,low,no,99,no test,infected
+22,46,female,medium,unknown,101,no test,infected
+23,53,male,medium,yes,99,no test,not infected
+24,45,female,medium,unknown,100,no test,not infected
+25,40,female,medium,yes,101,no test,not infected
+26,47,female,low,yes,99,no test,infected
+27,46,male,medium,unknown,104,no test,infected
+28,53,male,low,unknown,103,no test,infected
+29,44,male,medium,no,102,no test,infected
+30,34,female,high,unknown,99,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,22,female,low,unknown,100,no test,not infected
+3,30,male,medium,yes,104,no test,infected
+4,32,female,medium,no,102,no test,not infected
+5,40,male,medium,yes,104,no test,infected
+6,49,male,low,yes,104,no test,not infected
+7,54,male,medium,no,100,no test,infected
+8,32,male,low,yes,101,no test,not infected
+9,52,female,low,yes,101,no test,not infected
+10,22,female,medium,unknown,103,no test,not infected
+11,39,male,high,yes,104,no test,not infected
+12,40,male,medium,yes,99,no test,infected
+13,37,female,low,yes,99,no test,not infected
+14,33,male,low,unknown,101,no test,not infected
+15,36,male,medium,no,98,no test,infected
+16,37,male,low,yes,103,no test,not infected
+17,33,male,low,no,104,no test,not infected
+18,56,female,medium,no,100,no test,infected
+19,55,male,high,no,104,no test,infected
+20,36,female,medium,yes,101,no test,not infected
+21,38,male,medium,unknown,98,no test,infected
+22,43,male,medium,unknown,98,no test,infected
+23,42,male,medium,unknown,100,no test,not infected
+24,61,male,high,unknown,99,no test,infected
+25,28,male,medium,yes,104,no test,not infected
+26,38,male,medium,unknown,102,no test,infected
+27,41,male,medium,yes,100,no test,not infected
+28,25,male,medium,yes,102,no test,infected
+29,26,male,medium,unknown,101,no test,not infected
+30,41,female,low,no,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,38,male,medium,unknown,100,no test,infected
+3,61,male,medium,no,104,no test,infected
+4,32,male,medium,unknown,102,no test,not infected
+5,44,female,high,yes,98,no test,not infected
+6,25,male,medium,unknown,98,no test,not infected
+7,40,female,medium,no,98,no test,infected
+8,45,female,medium,unknown,100,no test,not infected
+9,50,female,low,yes,103,no test,not infected
+10,50,male,low,yes,99,no test,not infected
+11,36,female,medium,unknown,99,no test,not infected
+12,43,male,medium,yes,98,no test,infected
+13,20,female,high,yes,103,no test,infected
+14,50,male,medium,unknown,99,no test,not infected
+15,63,female,medium,no,100,no test,infected
+16,44,female,medium,yes,98,no test,not infected
+17,36,female,medium,yes,104,no test,infected
+18,44,female,low,unknown,101,no test,infected
+19,43,female,medium,unknown,102,no test,infected
+20,49,female,low,no,104,no test,infected
+21,42,female,low,unknown,102,no test,infected
+22,30,female,medium,no,102,no test,infected
+23,38,male,medium,yes,102,no test,infected
+24,54,female,medium,yes,103,no test,not infected
+25,24,female,low,yes,101,no test,not infected
+26,27,male,low,unknown,98,no test,infected
+27,38,male,high,yes,102,no test,not infected
+28,46,male,low,yes,103,no test,infected
+29,46,male,medium,yes,104,no test,infected
+30,36,male,low,yes,100,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,27,male,medium,no,101,no test,not infected
+3,40,female,medium,yes,104,no test,infected
+4,42,male,low,no,101,no test,not infected
+5,28,male,medium,yes,99,no test,infected
+6,58,male,low,no,99,no test,infected
+7,37,male,medium,unknown,101,no test,infected
+8,34,male,medium,unknown,101,no test,not infected
+9,29,male,high,no,103,no test,infected
+10,55,female,low,yes,101,no test,not infected
+11,36,male,low,yes,104,no test,infected
+12,41,female,low,yes,102,no test,not infected
+13,30,male,low,unknown,103,no test,infected
+14,26,male,medium,unknown,103,no test,not infected
+15,44,male,medium,unknown,104,no test,infected
+16,65,female,medium,unknown,98,no test,not infected
+17,41,female,high,no,101,no test,infected
+18,29,male,medium,no,99,no test,infected
+19,56,male,low,no,104,no test,infected
+20,49,male,high,yes,104,no test,infected
+21,25,male,medium,yes,101,no test,infected
+22,33,female,medium,yes,104,no test,infected
+23,60,male,low,yes,99,no test,not infected
+24,44,female,high,yes,98,no test,infected
+25,41,female,medium,yes,104,no test,not infected
+26,58,female,high,yes,102,no test,not infected
+27,61,male,medium,yes,99,no test,infected
+28,37,female,low,yes,101,no test,infected
+29,43,male,medium,yes,102,no test,infected
+30,42,female,low,no,99,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,36,male,medium,yes,103,no test,not infected
+3,31,female,medium,no,102,no test,infected
+4,39,female,medium,unknown,101,no test,not infected
+5,31,male,medium,unknown,99,no test,infected
+6,53,female,medium,unknown,98,no test,not infected
+7,30,female,low,unknown,103,no test,not infected
+8,28,male,low,unknown,102,no test,not infected
+9,58,female,medium,no,99,no test,not infected
+10,44,male,low,no,101,no test,infected
+11,47,male,medium,no,98,no test,not infected
+12,30,male,high,yes,98,no test,not infected
+13,39,male,high,unknown,103,no test,infected
+14,26,female,medium,yes,102,no test,infected
+15,19,male,high,unknown,99,no test,not infected
+16,44,male,medium,unknown,102,no test,infected
+17,25,female,medium,no,101,no test,not infected
+18,24,female,medium,yes,101,no test,infected
+19,36,female,low,unknown,102,no test,not infected
+20,43,male,medium,yes,101,no test,not infected
+21,52,male,low,unknown,100,no test,infected
+22,35,female,low,no,99,no test,infected
+23,34,female,low,unknown,102,no test,infected
+24,56,female,medium,unknown,100,no test,not infected
+25,50,male,low,yes,104,no test,infected
+26,47,female,high,no,98,no test,not infected
+27,38,male,low,unknown,104,no test,infected
+28,24,female,low,unknown,99,no test,not infected
+29,41,male,low,yes,103,no test,infected
+30,42,female,low,no,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,40,female,medium,unknown,99,no test,infected
+3,56,male,low,no,103,no test,infected
+4,31,female,medium,yes,104,no test,not infected
+5,36,female,high,yes,99,no test,not infected
+6,34,female,medium,no,102,no test,not infected
+7,29,male,medium,yes,100,no test,not infected
+8,43,female,medium,yes,102,no test,infected
+9,42,female,low,yes,103,no test,infected
+10,37,female,medium,yes,103,no test,infected
+11,47,male,medium,unknown,104,no test,not infected
+12,38,male,low,yes,103,no test,infected
+13,50,female,medium,yes,100,no test,not infected
+14,38,male,low,no,104,no test,infected
+15,42,female,low,no,101,no test,infected
+16,44,male,medium,unknown,101,no test,infected
+17,28,male,medium,yes,104,no test,infected
+18,44,male,medium,no,100,no test,infected
+19,36,female,low,no,98,no test,not infected
+20,50,female,low,unknown,103,no test,infected
+21,37,male,low,no,103,no test,infected
+22,56,male,low,unknown,103,no test,infected
+23,63,male,medium,no,99,no test,infected
+24,29,female,high,no,104,no test,not infected
+25,60,male,low,no,103,no test,infected
+26,48,male,medium,no,99,no test,infected
+27,59,female,low,unknown,101,no test,infected
+28,54,male,medium,yes,102,no test,infected
+29,40,male,medium,unknown,98,no test,not infected
+30,53,male,medium,unknown,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,32,male,medium,yes,104,no test,infected
+3,48,male,low,unknown,99,no test,infected
+4,43,male,high,unknown,103,no test,not infected
+5,45,male,medium,no,99,no test,not infected
+6,62,female,medium,yes,103,no test,infected
+7,39,female,medium,yes,99,no test,not infected
+8,38,female,low,yes,100,no test,infected
+9,48,male,low,unknown,98,no test,infected
+10,36,male,medium,yes,101,no test,not infected
+11,31,female,medium,unknown,104,no test,not infected
+12,39,male,low,no,99,no test,not infected
+13,43,female,low,unknown,103,no test,infected
+14,38,male,low,unknown,103,no test,infected
+15,49,female,medium,no,100,no test,not infected
+16,63,female,low,unknown,100,no test,infected
+17,23,female,low,no,100,no test,not infected
+18,43,male,low,yes,99,no test,not infected
+19,43,female,low,yes,100,no test,infected
+20,31,female,low,yes,102,no test,not infected
+21,31,male,low,yes,98,no test,not infected
+22,60,female,medium,yes,100,no test,not infected
+23,26,male,medium,no,102,no test,not infected
+24,32,female,medium,no,98,no test,infected
+25,39,male,low,yes,100,no test,not infected
+26,52,female,low,unknown,102,no test,not infected
+27,61,male,low,no,101,no test,infected
+28,41,male,medium,yes,98,no test,not infected
+29,40,female,low,yes,100,no test,not infected
+30,27,male,medium,yes,99,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,49,male,high,no,104,no test,infected
+3,47,male,low,unknown,103,no test,infected
+4,29,male,low,yes,99,no test,not infected
+5,42,male,medium,no,102,no test,infected
+6,58,female,low,no,101,no test,not infected
+7,44,female,high,unknown,102,no test,not infected
+8,52,male,medium,unknown,103,no test,infected
+9,44,male,medium,yes,103,no test,not infected
+10,39,male,medium,unknown,102,no test,infected
+11,31,male,medium,no,99,no test,not infected
+12,45,male,medium,unknown,100,no test,infected
+13,40,male,medium,yes,99,no test,not infected
+14,52,female,low,unknown,102,no test,infected
+15,47,female,high,yes,99,no test,not infected
+16,48,male,medium,no,103,no test,infected
+17,62,female,medium,yes,99,no test,not infected
+18,39,male,medium,unknown,98,no test,infected
+19,26,male,low,yes,99,no test,not infected
+20,47,female,low,unknown,100,no test,infected
+21,36,female,medium,yes,101,no test,not infected
+22,48,female,low,yes,100,no test,not infected
+23,53,male,medium,unknown,100,no test,not infected
+24,23,female,medium,unknown,104,no test,not infected
+25,32,male,medium,yes,103,no test,infected
+26,57,female,low,yes,99,no test,not infected
+27,45,male,low,yes,103,no test,infected
+28,43,female,low,yes,103,no test,not infected
+29,49,female,medium,yes,102,no test,not infected
+30,20,male,medium,unknown,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,45,female,medium,no,99,no test,not infected
+3,62,male,medium,unknown,98,no test,infected
+4,40,male,medium,yes,103,no test,not infected
+5,28,male,medium,no,103,no test,not infected
+6,56,female,high,no,99,no test,not infected
+7,46,female,low,yes,104,no test,infected
+8,25,male,medium,unknown,104,no test,not infected
+9,56,male,medium,yes,101,no test,not infected
+10,53,female,low,yes,103,no test,infected
+11,25,male,medium,unknown,100,no test,infected
+12,28,female,low,yes,100,no test,not infected
+13,63,male,low,no,101,no test,infected
+14,49,male,low,yes,100,no test,not infected
+15,41,male,high,yes,103,no test,infected
+16,45,male,low,unknown,99,no test,infected
+17,42,female,low,unknown,101,no test,infected
+18,38,male,medium,no,100,no test,not infected
+19,58,male,low,unknown,99,no test,infected
+20,20,female,medium,yes,102,no test,not infected
+21,37,female,medium,unknown,103,no test,infected
+22,47,female,medium,yes,103,no test,infected
+23,46,female,medium,yes,104,no test,not infected
+24,26,male,medium,no,102,no test,not infected
+25,34,female,medium,no,103,no test,infected
+26,47,male,medium,unknown,99,no test,infected
+27,45,female,low,yes,101,no test,not infected
+28,42,female,medium,no,103,no test,infected
+29,35,female,medium,unknown,100,no test,infected
+30,35,female,low,no,101,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,58,female,low,unknown,98,no test,infected
+3,43,female,medium,yes,98,no test,not infected
+4,46,female,medium,no,102,no test,infected
+5,45,female,medium,unknown,98,no test,infected
+6,37,female,medium,unknown,100,no test,infected
+7,34,female,medium,yes,99,no test,not infected
+8,23,female,medium,unknown,100,no test,not infected
+9,23,male,medium,no,104,no test,not infected
+10,38,male,high,no,100,no test,infected
+11,43,female,low,no,102,no test,infected
+12,41,male,medium,unknown,103,no test,not infected
+13,45,female,high,yes,102,no test,infected
+14,50,female,medium,yes,101,no test,not infected
+15,24,male,medium,yes,102,no test,not infected
+16,20,male,high,unknown,100,no test,not infected
+17,45,male,medium,yes,98,no test,not infected
+18,36,female,medium,unknown,102,no test,infected
+19,22,female,medium,no,102,no test,infected
+20,34,male,medium,yes,103,no test,infected
+21,38,male,low,no,100,no test,infected
+22,40,male,medium,yes,101,no test,not infected
+23,28,female,low,unknown,103,no test,not infected
+24,52,male,medium,yes,100,no test,infected
+25,36,female,low,yes,103,no test,infected
+26,40,female,low,no,102,no test,infected
+27,23,male,low,yes,101,no test,not infected
+28,39,female,low,yes,99,no test,infected
+29,33,male,low,yes,101,no test,not infected
+30,47,male,low,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,38,male,medium,yes,103,no test,not infected
+3,48,female,low,unknown,98,no test,infected
+4,46,male,medium,yes,104,no test,not infected
+5,47,male,low,no,98,no test,infected
+6,62,male,low,no,99,no test,infected
+7,19,male,low,no,103,no test,infected
+8,54,female,low,yes,100,no test,not infected
+9,42,female,low,unknown,101,no test,infected
+10,20,female,medium,unknown,101,no test,not infected
+11,43,male,low,unknown,102,no test,not infected
+12,31,female,low,yes,101,no test,not infected
+13,24,male,low,yes,99,no test,not infected
+14,29,male,high,unknown,102,no test,not infected
+15,32,male,low,unknown,98,no test,not infected
+16,51,male,medium,yes,103,no test,infected
+17,43,male,medium,yes,99,no test,not infected
+18,34,male,medium,unknown,103,no test,not infected
+19,37,female,low,unknown,102,no test,infected
+20,45,male,low,no,103,no test,infected
+21,24,female,low,no,100,no test,not infected
+22,44,female,medium,unknown,102,no test,infected
+23,35,male,high,yes,98,no test,not infected
+24,24,male,medium,yes,104,no test,infected
+25,30,female,high,yes,99,no test,not infected
+26,39,male,high,unknown,98,no test,not infected
+27,49,female,low,unknown,98,no test,infected
+28,51,female,medium,no,103,no test,not infected
+29,37,male,medium,unknown,98,no test,not infected
+30,26,female,high,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,29,male,medium,unknown,99,no test,not infected
+3,59,female,medium,unknown,98,no test,not infected
+4,44,male,low,no,103,no test,infected
+5,55,male,medium,no,101,no test,infected
+6,35,female,low,yes,103,no test,infected
+7,47,female,high,yes,103,no test,infected
+8,56,male,low,unknown,98,no test,infected
+9,33,female,low,unknown,103,no test,not infected
+10,52,male,low,yes,103,no test,infected
+11,33,female,low,yes,104,no test,infected
+12,44,female,low,no,99,no test,not infected
+13,49,male,low,unknown,98,no test,not infected
+14,39,female,medium,unknown,104,no test,infected
+15,27,female,medium,unknown,100,no test,infected
+16,33,female,medium,unknown,103,no test,not infected
+17,27,female,medium,yes,104,no test,infected
+18,48,female,low,no,101,no test,infected
+19,23,female,high,no,99,no test,not infected
+20,55,female,medium,unknown,98,no test,not infected
+21,45,female,medium,yes,101,no test,not infected
+22,34,female,medium,unknown,98,no test,not infected
+23,45,female,low,no,101,no test,not infected
+24,52,female,medium,no,98,no test,infected
+25,36,female,medium,unknown,104,no test,not infected
+26,48,female,medium,unknown,98,no test,infected
+27,37,male,low,no,101,no test,not infected
+28,26,female,medium,yes,101,no test,not infected
+29,50,male,low,unknown,101,no test,infected
+30,50,female,low,yes,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,29,female,medium,yes,101,no test,infected
+3,30,male,medium,unknown,103,no test,not infected
+4,54,male,low,unknown,103,no test,infected
+5,38,male,medium,unknown,99,no test,not infected
+6,60,female,low,yes,99,no test,not infected
+7,41,female,medium,yes,103,no test,infected
+8,54,female,medium,unknown,100,no test,infected
+9,35,female,high,no,100,no test,infected
+10,58,female,high,unknown,104,no test,infected
+11,47,female,medium,unknown,101,no test,not infected
+12,47,male,low,yes,101,no test,infected
+13,46,female,medium,yes,103,no test,infected
+14,46,female,low,unknown,102,no test,not infected
+15,51,female,low,unknown,103,no test,not infected
+16,29,male,medium,yes,101,no test,not infected
+17,32,female,medium,yes,101,no test,infected
+18,40,female,low,yes,100,no test,not infected
+19,60,male,medium,yes,99,no test,not infected
+20,61,male,high,yes,103,no test,not infected
+21,26,male,medium,yes,104,no test,not infected
+22,53,female,high,no,104,no test,infected
+23,39,male,medium,yes,102,no test,not infected
+24,56,male,high,unknown,104,no test,infected
+25,50,female,medium,yes,104,no test,infected
+26,35,female,medium,yes,103,no test,infected
+27,44,female,low,no,99,no test,not infected
+28,47,female,medium,yes,100,no test,infected
+29,35,female,low,unknown,101,no test,not infected
+30,51,male,low,yes,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,50,male,low,unknown,101,no test,infected
+3,50,male,low,yes,102,no test,infected
+4,63,female,low,no,103,no test,not infected
+5,40,female,low,no,101,no test,infected
+6,26,male,low,no,104,no test,not infected
+7,27,male,medium,no,100,no test,not infected
+8,46,female,medium,yes,99,no test,not infected
+9,41,female,medium,no,101,no test,infected
+10,64,female,low,yes,103,no test,infected
+11,45,female,medium,yes,98,no test,not infected
+12,47,male,medium,no,99,no test,infected
+13,42,female,medium,unknown,100,no test,not infected
+14,44,female,medium,yes,100,no test,infected
+15,52,male,medium,yes,103,no test,infected
+16,35,female,medium,no,103,no test,not infected
+17,38,male,low,yes,104,no test,not infected
+18,31,male,low,yes,99,no test,not infected
+19,36,female,low,yes,101,no test,not infected
+20,30,female,low,yes,98,no test,not infected
+21,21,female,medium,yes,101,no test,not infected
+22,35,male,high,yes,104,no test,not infected
+23,57,female,medium,unknown,102,no test,infected
+24,36,female,low,unknown,104,no test,infected
+25,48,male,low,yes,100,no test,not infected
+26,22,female,low,no,104,no test,not infected
+27,37,female,low,yes,98,no test,infected
+28,50,male,medium,unknown,101,no test,infected
+29,61,female,medium,unknown,103,no test,infected
+30,21,male,low,unknown,100,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,44,male,medium,unknown,100,no test,infected
+3,29,male,medium,yes,101,no test,infected
+4,41,male,medium,no,101,no test,infected
+5,26,female,low,unknown,104,no test,not infected
+6,65,male,high,unknown,102,no test,infected
+7,25,male,high,yes,102,no test,infected
+8,39,male,medium,yes,101,no test,not infected
+9,49,male,low,yes,98,no test,infected
+10,46,male,low,yes,101,no test,not infected
+11,36,male,low,yes,104,no test,not infected
+12,61,female,medium,no,99,no test,not infected
+13,55,male,medium,unknown,101,no test,infected
+14,40,male,low,unknown,101,no test,not infected
+15,35,female,medium,yes,101,no test,infected
+16,36,female,medium,unknown,101,no test,not infected
+17,56,male,low,no,99,no test,not infected
+18,39,male,low,unknown,102,no test,infected
+19,34,female,medium,unknown,101,no test,not infected
+20,47,female,medium,unknown,99,no test,not infected
+21,53,male,low,unknown,100,no test,infected
+22,34,female,medium,unknown,99,no test,not infected
+23,40,male,medium,no,100,no test,infected
+24,54,male,medium,yes,103,no test,infected
+25,49,male,medium,unknown,103,no test,infected
+26,39,male,low,unknown,99,no test,infected
+27,29,male,low,yes,102,no test,not infected
+28,30,male,low,unknown,98,no test,not infected
+29,47,female,low,unknown,99,no test,infected
+30,54,male,low,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,50,male,high,unknown,99,no test,infected
+3,43,male,medium,yes,103,no test,infected
+4,32,female,low,yes,102,no test,infected
+5,59,female,low,no,99,no test,infected
+6,50,female,medium,yes,102,no test,infected
+7,40,female,high,unknown,99,no test,not infected
+8,49,male,low,yes,99,no test,not infected
+9,38,male,medium,no,103,no test,infected
+10,47,female,medium,unknown,99,no test,not infected
+11,49,male,high,no,101,no test,infected
+12,61,male,low,unknown,99,no test,infected
+13,42,female,medium,unknown,101,no test,not infected
+14,59,male,high,unknown,98,no test,infected
+15,37,male,low,yes,102,no test,infected
+16,42,male,high,yes,99,no test,infected
+17,50,male,medium,yes,104,no test,infected
+18,52,female,medium,unknown,98,no test,infected
+19,29,male,medium,yes,103,no test,infected
+20,28,male,medium,no,103,no test,not infected
+21,43,male,low,unknown,100,no test,infected
+22,46,male,medium,yes,103,no test,not infected
+23,35,male,medium,unknown,103,no test,infected
+24,36,male,medium,yes,104,no test,infected
+25,52,female,low,unknown,102,no test,infected
+26,28,male,low,unknown,101,no test,infected
+27,51,male,low,no,98,no test,not infected
+28,36,female,medium,yes,98,no test,not infected
+29,35,male,medium,no,100,no test,not infected
+30,26,female,medium,yes,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,42,male,high,no,102,no test,infected
+3,62,male,high,unknown,100,no test,infected
+4,50,male,medium,unknown,104,no test,infected
+5,38,male,medium,unknown,104,no test,infected
+6,34,male,low,yes,101,no test,infected
+7,48,female,low,unknown,100,no test,infected
+8,51,female,low,yes,98,no test,not infected
+9,44,female,medium,no,102,no test,not infected
+10,47,male,low,yes,100,no test,not infected
+11,39,female,medium,no,102,no test,infected
+12,42,male,medium,yes,100,no test,not infected
+13,46,male,low,unknown,101,no test,infected
+14,62,male,low,unknown,99,no test,infected
+15,59,female,high,no,98,no test,infected
+16,35,female,medium,no,98,no test,not infected
+17,45,female,low,yes,103,no test,infected
+18,30,female,medium,yes,101,no test,infected
+19,35,male,low,yes,100,no test,infected
+20,58,male,high,no,99,no test,infected
+21,27,male,medium,no,99,no test,not infected
+22,36,female,medium,unknown,99,no test,infected
+23,29,male,low,yes,103,no test,infected
+24,31,male,low,yes,101,no test,not infected
+25,39,male,medium,yes,101,no test,not infected
+26,22,female,low,yes,101,no test,not infected
+27,49,female,medium,unknown,100,no test,not infected
+28,53,female,medium,no,101,no test,not infected
+29,29,male,medium,yes,102,no test,infected
+30,44,female,low,yes,98,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,44,male,low,yes,101,no test,infected
+3,31,female,medium,yes,101,no test,not infected
+4,28,female,low,unknown,100,no test,not infected
+5,34,female,medium,unknown,103,no test,not infected
+6,48,male,high,no,104,no test,infected
+7,46,female,medium,unknown,102,no test,infected
+8,20,female,medium,yes,102,no test,infected
+9,43,male,low,yes,101,no test,infected
+10,52,male,low,unknown,104,no test,infected
+11,42,male,medium,unknown,102,no test,infected
+12,52,male,low,yes,104,no test,infected
+13,47,female,low,unknown,100,no test,infected
+14,57,male,low,yes,100,no test,infected
+15,49,male,medium,no,98,no test,infected
+16,34,male,medium,unknown,99,no test,infected
+17,25,male,low,yes,98,no test,not infected
+18,25,male,medium,no,99,no test,not infected
+19,55,male,low,yes,101,no test,not infected
+20,46,male,low,unknown,103,no test,not infected
+21,41,female,medium,yes,102,no test,infected
+22,25,male,medium,yes,102,no test,infected
+23,57,male,medium,yes,99,no test,not infected
+24,36,male,medium,yes,98,no test,not infected
+25,42,female,medium,yes,101,no test,not infected
+26,19,female,high,no,99,no test,infected
+27,49,male,low,unknown,103,no test,infected
+28,57,male,low,no,103,no test,not infected
+29,60,male,low,yes,99,no test,infected
+30,49,male,low,no,103,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,37,male,low,no,101,no test,infected
+3,42,female,low,unknown,103,no test,infected
+4,45,female,low,no,102,no test,not infected
+5,39,male,low,unknown,100,no test,infected
+6,48,male,medium,yes,100,no test,not infected
+7,60,female,low,no,101,no test,infected
+8,25,male,medium,unknown,103,no test,not infected
+9,44,female,medium,yes,99,no test,not infected
+10,62,male,low,unknown,100,no test,not infected
+11,45,male,medium,unknown,102,no test,infected
+12,59,female,medium,yes,100,no test,infected
+13,66,male,low,unknown,99,no test,infected
+14,42,male,medium,unknown,100,no test,infected
+15,49,female,low,yes,103,no test,infected
+16,36,female,medium,yes,103,no test,not infected
+17,34,male,low,unknown,104,no test,infected
+18,48,female,medium,no,101,no test,infected
+19,22,female,low,no,98,no test,not infected
+20,41,female,medium,unknown,99,no test,infected
+21,51,female,medium,yes,98,no test,not infected
+22,51,female,medium,yes,99,no test,not infected
+23,45,female,medium,unknown,103,no test,infected
+24,59,male,low,yes,101,no test,not infected
+25,47,male,high,unknown,103,no test,infected
+26,54,male,low,no,101,no test,infected
+27,38,male,medium,unknown,100,no test,infected
+28,51,female,low,no,100,no test,infected
+29,28,female,high,yes,104,no test,infected
+30,60,female,low,yes,104,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,50,male,medium,no,99,no test,not infected
+3,41,female,medium,yes,101,no test,infected
+4,36,male,medium,no,103,no test,not infected
+5,19,female,medium,unknown,103,no test,infected
+6,34,female,medium,yes,100,no test,not infected
+7,44,female,medium,no,103,no test,not infected
+8,47,female,medium,yes,101,no test,infected
+9,50,female,low,unknown,103,no test,infected
+10,52,male,medium,unknown,103,no test,infected
+11,46,male,low,yes,104,no test,not infected
+12,20,female,low,yes,103,no test,infected
+13,48,female,low,yes,104,no test,infected
+14,27,female,high,yes,103,no test,infected
+15,28,female,medium,no,104,no test,not infected
+16,38,female,medium,unknown,98,no test,infected
+17,63,male,low,unknown,102,no test,not infected
+18,51,female,low,yes,100,no test,not infected
+19,59,male,medium,yes,98,no test,not infected
+20,36,female,medium,unknown,98,no test,not infected
+21,43,female,medium,yes,104,no test,not infected
+22,47,male,medium,yes,103,no test,infected
+23,30,male,low,no,98,no test,not infected
+24,35,male,high,yes,101,no test,not infected
+25,60,male,high,unknown,102,no test,infected
+26,33,male,high,yes,101,no test,infected
+27,48,male,low,unknown,104,no test,infected
+28,34,female,medium,yes,104,no test,not infected
+29,63,female,medium,no,102,no test,infected
+30,57,female,medium,yes,99,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,36,male,low,yes,101,no test,infected
+3,39,female,medium,unknown,99,no test,infected
+4,42,female,low,no,101,no test,not infected
+5,39,male,medium,yes,104,no test,infected
+6,41,male,medium,yes,102,no test,not infected
+7,41,male,low,no,104,no test,infected
+8,38,female,medium,yes,101,no test,not infected
+9,50,male,low,yes,103,no test,infected
+10,56,male,high,unknown,99,no test,not infected
+11,38,female,medium,no,102,no test,infected
+12,34,male,medium,unknown,99,no test,not infected
+13,50,male,low,unknown,103,no test,infected
+14,49,male,medium,yes,103,no test,infected
+15,51,male,medium,yes,99,no test,infected
+16,62,female,medium,yes,104,no test,infected
+17,32,female,high,yes,98,no test,infected
+18,41,male,medium,unknown,102,no test,not infected
+19,49,male,high,unknown,100,no test,infected
+20,45,female,medium,no,103,no test,infected
+21,62,female,low,yes,103,no test,infected
+22,32,female,low,unknown,102,no test,not infected
+23,53,female,medium,no,100,no test,infected
+24,36,male,medium,yes,102,no test,not infected
+25,43,male,low,unknown,98,no test,infected
+26,46,female,medium,unknown,104,no test,infected
+27,43,female,medium,unknown,102,no test,infected
+28,50,male,low,no,100,no test,infected
+29,32,female,low,unknown,101,no test,infected
+30,32,female,high,unknown,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,57,male,medium,yes,102,no test,infected
+3,32,female,medium,unknown,104,no test,infected
+4,30,male,low,yes,102,no test,not infected
+5,43,male,high,no,101,no test,infected
+6,62,female,low,unknown,100,no test,infected
+7,58,male,low,yes,100,no test,not infected
+8,41,male,low,unknown,99,no test,infected
+9,44,female,medium,yes,103,no test,infected
+10,39,male,low,no,101,no test,infected
+11,61,male,medium,unknown,101,no test,infected
+12,48,male,high,unknown,100,no test,infected
+13,45,female,medium,unknown,100,no test,infected
+14,42,female,low,yes,104,no test,not infected
+15,49,male,medium,yes,99,no test,not infected
+16,50,female,low,yes,103,no test,infected
+17,27,male,high,no,104,no test,infected
+18,40,male,high,unknown,98,no test,not infected
+19,48,male,low,yes,104,no test,infected
+20,49,female,high,unknown,101,no test,infected
+21,34,female,medium,yes,103,no test,infected
+22,37,female,medium,yes,99,no test,infected
+23,48,male,medium,yes,99,no test,not infected
+24,44,male,medium,unknown,100,no test,infected
+25,39,female,medium,unknown,102,no test,infected
+26,51,female,medium,yes,100,no test,not infected
+27,39,male,medium,no,98,no test,infected
+28,46,female,low,no,101,no test,infected
+29,51,female,medium,unknown,98,no test,infected
+30,32,female,medium,no,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,52,female,low,unknown,99,no test,not infected
+3,44,female,low,yes,104,no test,infected
+4,50,male,low,no,101,no test,not infected
+5,25,male,low,yes,102,no test,infected
+6,39,female,low,yes,102,no test,infected
+7,35,male,medium,unknown,100,no test,not infected
+8,28,male,medium,no,101,no test,not infected
+9,45,female,medium,unknown,104,no test,infected
+10,50,male,high,unknown,100,no test,not infected
+11,40,male,low,no,102,no test,infected
+12,33,male,low,yes,101,no test,infected
+13,38,male,low,unknown,101,no test,infected
+14,55,male,high,unknown,99,no test,infected
+15,44,female,medium,unknown,100,no test,infected
+16,50,female,medium,no,103,no test,infected
+17,28,female,medium,no,100,no test,not infected
+18,40,female,low,yes,104,no test,infected
+19,33,male,medium,no,104,no test,not infected
+20,38,male,medium,unknown,102,no test,infected
+21,41,male,medium,unknown,100,no test,not infected
+22,51,male,medium,yes,103,no test,not infected
+23,54,female,medium,no,101,no test,infected
+24,35,female,medium,no,102,no test,not infected
+25,33,female,medium,no,98,no test,not infected
+26,33,female,medium,unknown,104,no test,not infected
+27,50,female,low,no,99,no test,infected
+28,51,female,high,unknown,98,no test,infected
+29,24,female,medium,no,104,no test,not infected
+30,47,female,low,unknown,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,41,male,low,yes,99,no test,not infected
+3,58,male,medium,yes,101,no test,infected
+4,32,female,medium,yes,101,no test,not infected
+5,47,female,medium,unknown,98,no test,not infected
+6,44,male,medium,yes,98,no test,infected
+7,50,female,low,no,104,no test,not infected
+8,41,male,medium,no,99,no test,infected
+9,28,male,low,no,99,no test,not infected
+10,45,male,medium,unknown,99,no test,infected
+11,38,male,medium,unknown,101,no test,not infected
+12,46,female,medium,unknown,99,no test,infected
+13,33,male,high,unknown,104,no test,not infected
+14,45,male,low,unknown,103,no test,infected
+15,26,female,high,yes,102,no test,not infected
+16,40,male,high,no,101,no test,infected
+17,43,male,medium,unknown,102,no test,infected
+18,64,female,high,no,103,no test,infected
+19,32,male,medium,yes,103,no test,infected
+20,34,female,low,yes,98,no test,not infected
+21,34,male,medium,yes,100,no test,not infected
+22,22,male,low,yes,104,no test,infected
+23,25,female,medium,unknown,100,no test,not infected
+24,60,female,medium,yes,104,no test,infected
+25,35,male,low,no,98,no test,not infected
+26,44,female,high,yes,100,no test,infected
+27,47,male,low,no,99,no test,infected
+28,39,male,medium,yes,98,no test,infected
+29,30,male,low,yes,99,no test,not infected
+30,40,male,medium,unknown,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,40,male,low,no,102,no test,not infected
+3,32,female,low,no,100,no test,infected
+4,34,female,medium,no,100,no test,not infected
+5,38,female,medium,unknown,99,no test,infected
+6,41,male,high,no,101,no test,infected
+7,26,female,low,yes,100,no test,not infected
+8,30,male,low,unknown,104,no test,infected
+9,56,female,low,yes,103,no test,infected
+10,27,male,medium,yes,103,no test,infected
+11,57,female,high,yes,102,no test,infected
+12,21,female,medium,no,102,no test,not infected
+13,51,female,medium,no,103,no test,not infected
+14,29,female,low,unknown,99,no test,not infected
+15,45,male,low,unknown,102,no test,infected
+16,59,male,low,no,104,no test,infected
+17,40,male,high,unknown,101,no test,infected
+18,25,male,low,unknown,98,no test,not infected
+19,51,male,medium,no,101,no test,infected
+20,58,male,low,unknown,103,no test,infected
+21,37,female,medium,unknown,99,no test,not infected
+22,52,male,medium,yes,103,no test,infected
+23,37,male,low,yes,100,no test,not infected
+24,42,female,low,no,104,no test,not infected
+25,31,male,medium,no,103,no test,not infected
+26,49,female,low,no,100,no test,infected
+27,45,female,medium,no,100,no test,not infected
+28,30,male,medium,unknown,100,no test,infected
+29,40,female,medium,yes,100,no test,not infected
+30,20,male,low,no,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,47,female,low,unknown,102,no test,infected
+3,48,female,medium,yes,102,no test,not infected
+4,49,female,high,unknown,99,no test,infected
+5,48,female,medium,no,101,no test,infected
+6,39,female,medium,unknown,104,no test,infected
+7,57,male,low,yes,98,no test,not infected
+8,35,female,low,unknown,104,no test,not infected
+9,24,male,low,yes,100,no test,not infected
+10,53,male,medium,no,100,no test,infected
+11,60,female,high,unknown,100,no test,not infected
+12,28,male,low,no,98,no test,not infected
+13,30,male,low,no,102,no test,not infected
+14,46,male,high,no,100,no test,infected
+15,47,female,low,yes,103,no test,infected
+16,51,female,medium,unknown,103,no test,infected
+17,58,female,medium,yes,99,no test,infected
+18,47,male,medium,yes,100,no test,not infected
+19,45,male,medium,yes,102,no test,infected
+20,34,male,low,yes,104,no test,infected
+21,61,male,medium,yes,102,no test,infected
+22,50,female,medium,unknown,103,no test,infected
+23,46,male,low,yes,99,no test,infected
+24,25,male,medium,unknown,102,no test,not infected
+25,57,female,low,yes,103,no test,infected
+26,34,male,medium,yes,100,no test,infected
+27,43,male,high,unknown,98,no test,infected
+28,39,male,low,yes,102,no test,infected
+29,52,male,medium,yes,103,no test,infected
+30,40,female,medium,yes,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,26,male,medium,unknown,103,no test,not infected
+3,38,male,medium,no,102,no test,infected
+4,41,male,low,yes,99,no test,not infected
+5,41,male,medium,yes,98,no test,not infected
+6,42,female,low,yes,100,no test,not infected
+7,47,male,medium,unknown,100,no test,not infected
+8,20,male,low,yes,102,no test,infected
+9,42,female,medium,unknown,100,no test,infected
+10,38,male,low,unknown,100,no test,not infected
+11,38,female,low,yes,104,no test,not infected
+12,39,male,low,yes,100,no test,not infected
+13,44,female,low,no,103,no test,infected
+14,59,female,medium,unknown,103,no test,not infected
+15,45,female,high,yes,100,no test,infected
+16,53,female,low,unknown,98,no test,not infected
+17,20,female,medium,no,98,no test,not infected
+18,59,male,medium,yes,103,no test,infected
+19,18,male,medium,unknown,103,no test,infected
+20,33,female,high,yes,99,no test,not infected
+21,52,female,low,yes,101,no test,infected
+22,27,male,low,yes,102,no test,infected
+23,36,female,low,yes,103,no test,infected
+24,41,male,medium,unknown,100,no test,not infected
+25,32,male,high,no,101,no test,not infected
+26,51,female,medium,unknown,98,no test,infected
+27,40,male,low,yes,102,no test,infected
+28,59,male,medium,unknown,99,no test,infected
+29,47,male,low,yes,102,no test,infected
+30,21,male,high,unknown,99,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,58,male,low,yes,104,no test,infected
+3,51,male,medium,unknown,103,no test,not infected
+4,43,female,medium,no,102,no test,infected
+5,53,female,low,yes,100,no test,not infected
+6,36,female,low,yes,101,no test,not infected
+7,57,male,low,yes,104,no test,not infected
+8,46,male,medium,yes,104,no test,not infected
+9,34,male,low,yes,98,no test,infected
+10,38,female,high,no,104,no test,infected
+11,30,female,low,no,102,no test,not infected
+12,32,male,medium,unknown,99,no test,not infected
+13,59,male,low,unknown,103,no test,infected
+14,47,female,low,unknown,98,no test,not infected
+15,39,male,medium,yes,99,no test,not infected
+16,40,male,high,yes,103,no test,infected
+17,41,male,medium,yes,104,no test,infected
+18,34,male,medium,unknown,98,no test,infected
+19,45,female,medium,no,100,no test,infected
+20,34,female,low,no,100,no test,not infected
+21,31,male,medium,yes,101,no test,not infected
+22,28,female,low,yes,100,no test,infected
+23,48,female,low,unknown,100,no test,infected
+24,37,female,high,unknown,101,no test,not infected
+25,53,male,medium,yes,100,no test,not infected
+26,33,female,medium,yes,99,no test,infected
+27,43,male,medium,unknown,104,no test,not infected
+28,50,female,low,unknown,98,no test,not infected
+29,47,male,high,unknown,102,no test,not infected
+30,29,male,medium,unknown,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,34,male,medium,unknown,101,no test,not infected
+3,44,female,medium,no,103,no test,infected
+4,32,female,high,yes,98,no test,not infected
+5,23,female,high,no,104,no test,not infected
+6,42,female,medium,unknown,103,no test,infected
+7,41,female,medium,yes,102,no test,not infected
+8,35,female,low,no,104,no test,not infected
+9,44,female,low,unknown,100,no test,infected
+10,57,female,low,no,101,no test,not infected
+11,30,female,low,unknown,99,no test,not infected
+12,45,male,medium,unknown,104,no test,infected
+13,33,male,high,unknown,102,no test,not infected
+14,50,male,medium,yes,99,no test,infected
+15,43,male,medium,yes,100,no test,infected
+16,52,male,medium,no,100,no test,not infected
+17,43,female,high,unknown,98,no test,not infected
+18,47,male,low,unknown,100,no test,infected
+19,57,male,medium,unknown,104,no test,not infected
+20,55,female,medium,yes,102,no test,not infected
+21,58,male,high,unknown,98,no test,infected
+22,43,male,medium,yes,103,no test,not infected
+23,53,male,low,unknown,98,no test,not infected
+24,42,male,low,yes,102,no test,not infected
+25,44,male,medium,unknown,98,no test,infected
+26,28,male,low,yes,102,no test,infected
+27,39,male,medium,yes,98,no test,infected
+28,39,female,low,unknown,101,no test,infected
+29,31,female,low,unknown,100,no test,not infected
+30,48,male,low,unknown,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,41,female,high,unknown,103,no test,infected
+3,49,male,low,yes,103,no test,infected
+4,36,male,medium,yes,98,no test,not infected
+5,49,female,low,yes,102,no test,not infected
+6,64,female,medium,yes,98,no test,infected
+7,33,female,medium,unknown,101,no test,infected
+8,45,male,medium,unknown,102,no test,infected
+9,63,male,low,no,99,no test,infected
+10,46,male,medium,unknown,103,no test,not infected
+11,41,male,low,yes,99,no test,infected
+12,51,female,medium,unknown,102,no test,infected
+13,37,female,medium,no,98,no test,not infected
+14,53,female,medium,yes,101,no test,not infected
+15,45,female,medium,unknown,98,no test,infected
+16,46,male,high,yes,103,no test,infected
+17,36,female,medium,unknown,101,no test,not infected
+18,27,female,low,yes,99,no test,infected
+19,23,male,low,no,100,no test,not infected
+20,36,male,medium,no,101,no test,not infected
+21,53,female,low,no,99,no test,infected
+22,55,female,low,yes,99,no test,not infected
+23,32,female,medium,unknown,104,no test,not infected
+24,42,female,low,no,104,no test,infected
+25,44,female,low,unknown,104,no test,not infected
+26,50,male,low,unknown,103,no test,not infected
+27,36,female,low,unknown,100,no test,not infected
+28,37,male,low,yes,100,no test,not infected
+29,40,female,high,unknown,101,no test,not infected
+30,38,female,high,yes,103,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,32,female,medium,no,101,no test,not infected
+3,56,male,medium,unknown,99,no test,infected
+4,49,female,low,yes,104,no test,infected
+5,34,male,medium,unknown,102,no test,not infected
+6,26,female,medium,yes,104,no test,infected
+7,57,female,medium,unknown,101,no test,not infected
+8,47,male,medium,yes,98,no test,infected
+9,49,female,low,unknown,99,no test,infected
+10,59,male,medium,unknown,104,no test,infected
+11,42,female,medium,no,102,no test,infected
+12,32,female,medium,no,100,no test,not infected
+13,42,female,medium,yes,101,no test,infected
+14,37,female,medium,yes,99,no test,infected
+15,54,female,low,yes,101,no test,infected
+16,35,male,medium,no,102,no test,not infected
+17,26,female,low,yes,103,no test,infected
+18,40,male,medium,no,101,no test,not infected
+19,47,female,medium,yes,99,no test,not infected
+20,59,male,medium,yes,98,no test,not infected
+21,53,male,medium,no,99,no test,infected
+22,52,female,medium,unknown,102,no test,infected
+23,40,female,medium,yes,100,no test,not infected
+24,36,male,low,yes,102,no test,not infected
+25,48,male,medium,no,101,no test,not infected
+26,64,female,low,unknown,101,no test,not infected
+27,50,female,low,unknown,102,no test,infected
+28,42,male,low,unknown,101,no test,not infected
+29,41,female,medium,yes,98,no test,infected
+30,38,female,high,unknown,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,51,female,low,yes,98,no test,not infected
+3,34,male,low,unknown,103,no test,not infected
+4,41,female,medium,unknown,103,no test,infected
+5,40,female,medium,yes,101,no test,not infected
+6,53,male,medium,yes,103,no test,not infected
+7,30,female,low,no,98,no test,infected
+8,44,female,high,yes,98,no test,not infected
+9,47,female,high,unknown,98,no test,infected
+10,36,male,medium,unknown,100,no test,not infected
+11,34,male,high,no,102,no test,not infected
+12,22,female,medium,yes,99,no test,not infected
+13,39,male,low,unknown,98,no test,infected
+14,42,male,high,no,100,no test,not infected
+15,42,male,low,unknown,98,no test,infected
+16,47,female,low,yes,100,no test,not infected
+17,45,female,medium,no,104,no test,not infected
+18,55,female,medium,unknown,99,no test,not infected
+19,38,male,low,unknown,98,no test,infected
+20,36,female,high,yes,98,no test,infected
+21,19,male,medium,yes,101,no test,not infected
+22,31,female,medium,unknown,102,no test,not infected
+23,53,female,low,no,103,no test,infected
+24,49,female,low,no,103,no test,infected
+25,60,male,low,unknown,100,no test,infected
+26,41,male,medium,yes,102,no test,infected
+27,56,male,low,yes,104,no test,not infected
+28,50,male,medium,no,98,no test,infected
+29,35,female,medium,no,100,no test,not infected
+30,48,male,low,no,102,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,27,female,medium,no,102,no test,infected
+3,31,female,low,yes,103,no test,infected
+4,39,female,low,unknown,101,no test,infected
+5,27,female,medium,unknown,103,no test,infected
+6,30,female,medium,no,104,no test,not infected
+7,47,female,high,yes,103,no test,infected
+8,30,female,high,no,104,no test,infected
+9,60,male,medium,yes,104,no test,not infected
+10,34,female,medium,yes,100,no test,not infected
+11,57,male,medium,no,100,no test,infected
+12,18,female,low,yes,104,no test,infected
+13,29,female,medium,no,101,no test,not infected
+14,29,female,medium,unknown,99,no test,not infected
+15,52,female,low,no,102,no test,infected
+16,44,female,medium,unknown,99,no test,infected
+17,50,male,low,yes,98,no test,infected
+18,54,female,medium,no,104,no test,not infected
+19,45,female,medium,unknown,104,no test,infected
+20,59,male,medium,unknown,102,no test,infected
+21,32,male,medium,no,99,no test,infected
+22,34,female,low,no,99,no test,infected
+23,52,female,medium,unknown,98,no test,infected
+24,58,female,low,no,100,no test,infected
+25,48,female,medium,yes,101,no test,infected
+26,42,female,low,yes,99,no test,infected
+27,42,male,low,unknown,98,no test,not infected
+28,59,male,low,yes,103,no test,not infected
+29,25,male,low,yes,99,no test,not infected
+30,51,male,medium,unknown,102,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,44,male,medium,no,99,no test,infected
+3,39,male,medium,yes,102,no test,infected
+4,43,male,medium,unknown,99,no test,not infected
+5,39,male,medium,yes,101,no test,not infected
+6,33,male,medium,yes,99,no test,not infected
+7,48,female,medium,no,103,no test,infected
+8,53,male,low,unknown,101,no test,infected
+9,61,female,medium,no,102,no test,infected
+10,39,male,low,yes,101,no test,infected
+11,45,female,medium,no,104,no test,infected
+12,41,male,high,unknown,104,no test,infected
+13,50,female,high,unknown,100,no test,infected
+14,41,male,low,yes,98,no test,not infected
+15,48,male,medium,yes,101,no test,not infected
+16,47,female,high,no,104,no test,not infected
+17,52,male,medium,no,103,no test,not infected
+18,40,male,medium,unknown,99,no test,infected
+19,34,female,medium,unknown,99,no test,not infected
+20,40,male,medium,yes,104,no test,infected
+21,39,male,high,yes,98,no test,not infected
+22,59,female,low,no,103,no test,infected
+23,39,male,medium,yes,103,no test,not infected
+24,58,female,medium,unknown,98,no test,not infected
+25,43,female,low,unknown,103,no test,not infected
+26,43,female,medium,unknown,102,no test,infected
+27,33,female,medium,unknown,103,no test,not infected
+28,39,female,medium,unknown,101,no test,infected
+29,25,female,medium,unknown,101,no test,not infected
+30,60,female,low,no,99,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,54,female,medium,yes,103,no test,infected
+3,46,male,medium,unknown,99,no test,not infected
+4,57,female,medium,unknown,100,no test,not infected
+5,28,female,low,unknown,100,no test,not infected
+6,58,male,high,yes,101,no test,not infected
+7,61,female,medium,unknown,99,no test,not infected
+8,25,female,medium,unknown,101,no test,not infected
+9,46,female,low,no,101,no test,infected
+10,55,male,high,yes,104,no test,infected
+11,23,male,medium,no,100,no test,not infected
+12,54,male,medium,no,99,no test,not infected
+13,45,female,medium,unknown,103,no test,infected
+14,23,male,medium,unknown,101,no test,infected
+15,25,male,medium,no,103,no test,not infected
+16,56,female,low,unknown,100,no test,infected
+17,43,male,medium,unknown,100,no test,infected
+18,46,female,low,unknown,101,no test,infected
+19,53,female,low,yes,101,no test,not infected
+20,37,female,high,no,101,no test,infected
+21,46,male,medium,yes,103,no test,infected
+22,62,female,low,no,99,no test,not infected
+23,45,male,high,unknown,102,no test,infected
+24,44,male,medium,no,98,no test,not infected
+25,40,male,low,no,102,no test,not infected
+26,30,female,high,yes,101,no test,not infected
+27,43,female,medium,unknown,103,no test,infected
+28,58,male,medium,unknown,104,no test,not infected
+29,38,male,medium,unknown,102,no test,not infected
+30,27,male,high,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,32,male,medium,unknown,98,no test,infected
+3,35,female,medium,unknown,101,no test,infected
+4,41,male,medium,no,103,no test,infected
+5,47,female,low,unknown,98,no test,not infected
+6,33,male,medium,unknown,101,no test,infected
+7,37,male,medium,unknown,104,no test,not infected
+8,40,female,medium,unknown,103,no test,infected
+9,59,male,medium,yes,103,no test,infected
+10,58,male,low,no,101,no test,infected
+11,41,male,high,unknown,102,no test,infected
+12,41,female,medium,unknown,103,no test,infected
+13,47,male,low,yes,100,no test,not infected
+14,44,female,low,yes,98,no test,not infected
+15,45,female,medium,unknown,104,no test,infected
+16,37,female,medium,yes,104,no test,infected
+17,40,male,medium,no,101,no test,infected
+18,28,female,medium,no,103,no test,infected
+19,33,male,high,unknown,100,no test,not infected
+20,63,female,low,unknown,104,no test,infected
+21,43,female,medium,yes,103,no test,not infected
+22,44,female,high,yes,98,no test,not infected
+23,47,male,medium,yes,104,no test,infected
+24,35,male,medium,unknown,99,no test,not infected
+25,43,male,medium,yes,103,no test,not infected
+26,51,female,low,yes,104,no test,not infected
+27,22,female,medium,unknown,99,no test,not infected
+28,35,female,medium,no,100,no test,infected
+29,38,male,low,unknown,100,no test,infected
+30,39,male,medium,no,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,51,female,low,yes,102,no test,not infected
+3,35,female,medium,yes,99,no test,not infected
+4,45,female,medium,no,98,no test,infected
+5,58,male,low,no,102,no test,infected
+6,58,female,low,yes,103,no test,infected
+7,29,female,medium,unknown,98,no test,not infected
+8,29,female,high,yes,99,no test,not infected
+9,39,female,medium,yes,98,no test,not infected
+10,34,male,medium,no,102,no test,not infected
+11,33,female,medium,unknown,103,no test,not infected
+12,23,female,low,unknown,101,no test,not infected
+13,66,male,low,yes,102,no test,infected
+14,38,female,low,unknown,100,no test,not infected
+15,44,female,low,no,103,no test,not infected
+16,28,male,low,no,104,no test,not infected
+17,41,female,medium,no,102,no test,infected
+18,49,male,low,unknown,102,no test,infected
+19,46,male,low,yes,100,no test,infected
+20,45,male,low,yes,103,no test,infected
+21,32,female,high,unknown,103,no test,infected
+22,46,male,medium,no,103,no test,infected
+23,29,male,medium,yes,100,no test,infected
+24,49,female,medium,yes,100,no test,infected
+25,57,male,low,no,104,no test,infected
+26,19,male,medium,no,99,no test,not infected
+27,61,male,high,yes,98,no test,not infected
+28,60,male,medium,yes,100,no test,not infected
+29,44,female,medium,unknown,104,no test,infected
+30,56,female,medium,no,101,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,60,female,medium,no,103,no test,infected
+3,41,male,low,yes,103,no test,not infected
+4,42,female,medium,no,102,no test,infected
+5,33,male,medium,no,100,no test,not infected
+6,34,female,low,yes,100,no test,infected
+7,61,male,medium,yes,98,no test,not infected
+8,49,female,medium,no,104,no test,not infected
+9,51,male,medium,yes,99,no test,not infected
+10,27,female,medium,no,99,no test,infected
+11,44,female,low,yes,104,no test,infected
+12,41,female,high,yes,98,no test,not infected
+13,29,male,low,no,102,no test,infected
+14,40,male,high,no,104,no test,infected
+15,51,female,low,unknown,101,no test,infected
+16,48,male,high,unknown,100,no test,infected
+17,35,female,medium,no,102,no test,not infected
+18,34,female,low,yes,103,no test,not infected
+19,38,female,high,yes,103,no test,not infected
+20,62,male,medium,no,99,no test,infected
+21,28,male,medium,yes,102,no test,infected
+22,48,male,medium,unknown,102,no test,infected
+23,36,male,low,unknown,104,no test,not infected
+24,39,female,medium,yes,102,no test,not infected
+25,45,male,high,no,101,no test,not infected
+26,35,female,low,yes,103,no test,infected
+27,32,male,high,no,100,no test,not infected
+28,44,male,low,unknown,100,no test,not infected
+29,46,female,low,no,103,no test,not infected
+30,38,male,low,no,103,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,34,male,high,yes,102,no test,infected
+3,47,female,high,yes,101,no test,not infected
+4,59,male,low,unknown,99,no test,infected
+5,41,male,high,unknown,100,no test,not infected
+6,47,male,high,yes,104,no test,not infected
+7,59,female,low,no,101,no test,infected
+8,51,female,medium,unknown,101,no test,infected
+9,58,female,low,yes,99,no test,not infected
+10,61,male,medium,yes,104,no test,infected
+11,62,male,medium,unknown,101,no test,infected
+12,53,male,low,no,101,no test,infected
+13,57,female,high,yes,99,no test,infected
+14,22,female,medium,no,98,no test,infected
+15,46,female,medium,no,103,no test,infected
+16,64,male,medium,no,101,no test,infected
+17,57,male,low,unknown,99,no test,not infected
+18,46,male,high,unknown,103,no test,infected
+19,39,male,medium,yes,100,no test,infected
+20,43,male,medium,no,101,no test,infected
+21,33,male,medium,yes,104,no test,infected
+22,44,male,low,yes,99,no test,infected
+23,52,female,low,no,102,no test,not infected
+24,55,female,medium,unknown,102,no test,infected
+25,39,male,medium,unknown,104,no test,not infected
+26,41,male,low,unknown,101,no test,not infected
+27,54,male,medium,yes,100,no test,infected
+28,46,male,medium,no,102,no test,not infected
+29,45,female,medium,no,103,no test,infected
+30,54,female,low,unknown,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,43,female,medium,unknown,103,no test,infected
+3,38,female,low,yes,99,no test,not infected
+4,50,male,medium,no,102,no test,not infected
+5,45,male,medium,unknown,104,no test,infected
+6,40,male,low,yes,99,no test,not infected
+7,44,male,low,unknown,98,no test,not infected
+8,27,female,medium,yes,100,no test,infected
+9,39,male,medium,yes,103,no test,infected
+10,24,female,low,yes,99,no test,not infected
+11,19,female,low,no,98,no test,infected
+12,52,male,low,no,101,no test,infected
+13,58,female,medium,yes,99,no test,not infected
+14,47,female,medium,yes,102,no test,not infected
+15,42,male,low,unknown,101,no test,infected
+16,35,female,medium,no,101,no test,not infected
+17,40,female,high,unknown,101,no test,not infected
+18,57,female,high,no,99,no test,not infected
+19,21,male,medium,yes,102,no test,infected
+20,39,male,medium,unknown,102,no test,infected
+21,20,female,medium,yes,98,no test,not infected
+22,34,female,high,yes,98,no test,infected
+23,52,male,medium,yes,98,no test,infected
+24,26,male,high,unknown,102,no test,not infected
+25,56,female,medium,yes,100,no test,infected
+26,58,male,low,yes,103,no test,infected
+27,44,female,low,yes,104,no test,not infected
+28,59,female,low,yes,98,no test,not infected
+29,62,female,medium,unknown,99,no test,infected
+30,39,male,low,yes,101,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,28,male,high,yes,101,no test,infected
+3,31,female,high,no,99,no test,not infected
+4,42,male,high,yes,98,no test,infected
+5,46,female,low,no,102,no test,infected
+6,33,female,low,unknown,98,no test,not infected
+7,36,female,medium,yes,102,no test,not infected
+8,60,female,high,no,100,no test,infected
+9,58,male,medium,unknown,99,no test,not infected
+10,35,male,medium,yes,98,no test,not infected
+11,45,male,low,unknown,101,no test,infected
+12,61,male,medium,yes,99,no test,infected
+13,38,female,medium,unknown,98,no test,infected
+14,46,male,low,unknown,100,no test,not infected
+15,47,male,medium,yes,101,no test,infected
+16,39,male,low,yes,101,no test,infected
+17,32,male,medium,no,98,no test,infected
+18,54,female,high,no,98,no test,infected
+19,49,male,medium,yes,102,no test,infected
+20,30,female,low,unknown,103,no test,infected
+21,57,female,medium,unknown,99,no test,not infected
+22,35,female,high,yes,103,no test,infected
+23,49,male,low,unknown,104,no test,infected
+24,34,female,low,unknown,99,no test,infected
+25,48,male,medium,yes,103,no test,not infected
+26,24,male,low,unknown,98,no test,infected
+27,36,male,medium,yes,104,no test,infected
+28,57,male,low,no,99,no test,infected
+29,39,female,high,yes,103,no test,infected
+30,36,male,low,unknown,100,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,54,female,low,no,101,no test,not infected
+3,42,female,low,unknown,104,no test,infected
+4,48,female,medium,yes,103,no test,infected
+5,20,male,medium,yes,102,no test,infected
+6,51,male,medium,yes,103,no test,infected
+7,41,male,high,yes,100,no test,infected
+8,54,male,low,no,101,no test,not infected
+9,52,female,low,no,98,no test,infected
+10,34,male,low,unknown,103,no test,infected
+11,56,female,medium,yes,101,no test,not infected
+12,22,male,low,yes,103,no test,not infected
+13,33,male,low,yes,104,no test,infected
+14,36,male,low,unknown,100,no test,not infected
+15,26,female,medium,yes,98,no test,infected
+16,54,female,low,no,99,no test,infected
+17,54,male,medium,no,101,no test,infected
+18,38,male,high,yes,103,no test,infected
+19,46,female,medium,unknown,102,no test,infected
+20,65,male,medium,yes,103,no test,infected
+21,47,female,medium,yes,104,no test,infected
+22,39,female,low,unknown,103,no test,not infected
+23,29,female,medium,yes,102,no test,infected
+24,44,female,low,unknown,103,no test,not infected
+25,55,male,medium,no,98,no test,infected
+26,56,female,medium,unknown,98,no test,not infected
+27,41,female,low,no,102,no test,not infected
+28,51,female,medium,no,104,no test,not infected
+29,51,female,medium,unknown,104,no test,infected
+30,20,female,low,unknown,103,no test,not infected
+1,44,male,medium,yes,100,no test,infected
+2,53,male,low,no,102,no test,infected
+3,45,male,low,yes,103,no test,infected
+4,41,male,low,unknown,102,no test,not infected
+5,55,female,medium,no,104,no test,infected
+6,32,male,low,unknown,102,no test,not infected
+7,39,male,medium,yes,104,no test,not infected
+8,64,male,high,unknown,100,no test,infected
+9,36,male,medium,no,100,no test,not infected
+10,51,female,medium,unknown,102,no test,infected
+11,50,female,medium,yes,101,no test,not infected
+12,36,male,high,no,98,no test,not infected
+13,64,male,low,unknown,101,no test,not infected
+14,38,female,medium,unknown,104,no test,infected
+15,56,female,medium,unknown,98,no test,infected
+16,60,female,low,yes,98,no test,not infected
+17,25,female,high,unknown,104,no test,not infected
+18,20,male,medium,yes,99,no test,not infected
+19,31,female,medium,no,102,no test,not infected
+20,21,female,medium,yes,98,no test,infected
+21,49,male,low,no,100,no test,infected
+22,38,male,low,yes,104,no test,infected
+23,44,male,high,no,104,no test,not infected
+24,44,male,medium,yes,98,no test,infected
+25,30,male,medium,yes,101,no test,infected
+26,24,female,low,unknown,103,no test,infected
+27,35,male,medium,unknown,98,no test,not infected
+28,60,male,low,yes,104,no test,infected
+29,34,male,low,no,100,no test,not infected
+30,52,male,medium,unknown,103,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,31,male,low,unknown,100,no test,not infected
+3,29,male,low,no,101,no test,infected
+4,32,female,medium,yes,102,no test,infected
+5,39,female,medium,yes,104,no test,infected
+6,34,female,medium,unknown,103,no test,not infected
+7,54,male,medium,yes,104,no test,infected
+8,28,male,medium,unknown,101,no test,not infected
+9,46,female,high,no,102,no test,infected
+10,32,female,low,unknown,103,no test,not infected
+11,57,female,low,unknown,100,no test,infected
+12,47,female,medium,yes,101,no test,not infected
+13,60,female,low,no,98,no test,not infected
+14,40,male,medium,unknown,104,no test,infected
+15,49,female,high,yes,99,no test,not infected
+16,37,female,high,unknown,98,no test,not infected
+17,32,male,medium,unknown,99,no test,not infected
+18,53,female,low,no,98,no test,not infected
+19,43,male,medium,no,101,no test,infected
+20,32,female,low,yes,101,no test,not infected
+21,52,female,medium,yes,102,no test,infected
+22,38,male,medium,yes,98,no test,not infected
+23,36,female,low,yes,103,no test,infected
+24,52,male,low,unknown,99,no test,infected
+25,42,female,medium,unknown,102,no test,infected
+26,25,male,low,no,104,no test,not infected
+27,31,female,medium,yes,103,no test,not infected
+28,45,female,medium,yes,99,no test,not infected
+29,26,male,medium,yes,102,no test,infected
+30,41,male,medium,unknown,101,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,59,female,high,no,99,no test,infected
+3,43,male,low,yes,100,no test,infected
+4,45,male,medium,yes,98,no test,infected
+5,47,male,medium,yes,104,no test,infected
+6,41,male,medium,yes,101,no test,infected
+7,44,female,medium,unknown,101,no test,not infected
+8,42,male,medium,no,104,no test,infected
+9,59,female,medium,yes,100,no test,infected
+10,45,female,medium,yes,103,no test,infected
+11,39,female,medium,no,103,no test,infected
+12,41,male,medium,no,102,no test,infected
+13,35,female,medium,unknown,103,no test,not infected
+14,44,female,low,yes,101,no test,not infected
+15,50,male,medium,unknown,98,no test,not infected
+16,52,male,low,yes,103,no test,infected
+17,43,male,low,unknown,100,no test,infected
+18,40,male,medium,unknown,100,no test,infected
+19,45,male,low,yes,104,no test,infected
+20,54,male,medium,yes,101,no test,not infected
+21,45,female,medium,yes,103,no test,not infected
+22,28,male,low,yes,104,no test,not infected
+23,38,male,medium,yes,101,no test,not infected
+24,60,female,medium,yes,104,no test,infected
+25,42,female,high,yes,104,no test,infected
+26,42,female,low,no,103,no test,not infected
+27,27,female,medium,yes,103,no test,infected
+28,49,male,medium,no,101,no test,infected
+29,36,female,low,yes,100,no test,not infected
+30,39,male,low,unknown,99,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,54,male,medium,yes,99,no test,not infected
+3,54,male,high,no,99,no test,infected
+4,55,male,low,unknown,102,no test,infected
+5,40,male,medium,no,100,no test,not infected
+6,41,male,medium,yes,103,no test,infected
+7,38,male,low,unknown,103,no test,infected
+8,44,male,low,yes,102,no test,infected
+9,43,male,low,no,102,no test,not infected
+10,64,male,low,no,99,no test,not infected
+11,46,female,low,no,100,no test,infected
+12,36,female,medium,yes,102,no test,infected
+13,39,male,low,no,98,no test,infected
+14,30,male,medium,unknown,104,no test,not infected
+15,38,female,medium,yes,103,no test,not infected
+16,43,female,low,no,99,no test,not infected
+17,46,female,low,unknown,100,no test,infected
+18,46,female,medium,unknown,103,no test,infected
+19,24,male,low,unknown,102,no test,not infected
+20,54,female,low,unknown,101,no test,not infected
+21,32,male,medium,unknown,102,no test,infected
+22,51,male,medium,unknown,98,no test,infected
+23,39,female,low,yes,100,no test,infected
+24,37,female,medium,unknown,102,no test,not infected
+25,37,male,medium,no,104,no test,infected
+26,44,female,medium,yes,100,no test,not infected
+27,27,male,medium,no,104,no test,infected
+28,48,female,medium,no,103,no test,infected
+29,65,female,medium,unknown,103,no test,not infected
+30,28,female,low,yes,98,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,52,male,medium,no,104,no test,infected
+3,32,male,low,yes,104,no test,infected
+4,36,female,medium,yes,100,no test,not infected
+5,28,female,medium,yes,99,no test,not infected
+6,41,male,medium,yes,99,no test,not infected
+7,20,male,medium,unknown,102,no test,infected
+8,24,female,high,unknown,102,no test,infected
+9,21,female,low,yes,102,no test,infected
+10,39,male,high,no,104,no test,infected
+11,45,female,medium,unknown,104,no test,infected
+12,32,female,high,yes,102,no test,infected
+13,59,female,low,unknown,102,no test,infected
+14,33,female,low,unknown,101,no test,infected
+15,41,female,low,yes,99,no test,infected
+16,46,male,medium,unknown,98,no test,infected
+17,39,male,medium,unknown,102,no test,infected
+18,40,male,low,yes,99,no test,infected
+19,43,female,medium,unknown,100,no test,not infected
+20,47,female,low,yes,102,no test,infected
+21,30,male,medium,yes,104,no test,infected
+22,57,female,medium,yes,102,no test,not infected
+23,41,female,low,yes,104,no test,infected
+24,49,female,medium,unknown,99,no test,infected
+25,48,male,medium,unknown,99,no test,not infected
+26,57,male,low,yes,100,no test,not infected
+27,36,male,medium,yes,98,no test,not infected
+28,56,male,low,no,104,no test,not infected
+29,30,male,low,unknown,101,no test,not infected
+30,58,female,low,unknown,104,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,35,male,low,unknown,103,no test,not infected
+3,22,male,low,unknown,103,no test,infected
+4,46,female,low,yes,100,no test,not infected
+5,61,female,medium,unknown,102,no test,infected
+6,23,male,low,yes,103,no test,infected
+7,52,female,low,yes,104,no test,not infected
+8,27,male,high,yes,99,no test,not infected
+9,22,female,medium,no,103,no test,infected
+10,43,male,low,yes,104,no test,infected
+11,37,male,low,no,100,no test,infected
+12,46,female,low,yes,98,no test,not infected
+13,29,female,low,yes,99,no test,not infected
+14,41,female,low,yes,99,no test,not infected
+15,30,male,medium,yes,103,no test,infected
+16,43,male,low,yes,103,no test,infected
+17,39,female,medium,unknown,104,no test,infected
+18,25,female,low,no,99,no test,not infected
+19,37,female,low,unknown,101,no test,not infected
+20,48,female,medium,unknown,98,no test,infected
+21,37,female,low,unknown,101,no test,not infected
+22,54,male,medium,yes,103,no test,infected
+23,44,female,low,unknown,102,no test,infected
+24,40,female,high,unknown,101,no test,infected
+25,58,male,low,yes,104,no test,not infected
+26,52,female,low,yes,100,no test,infected
+27,26,female,medium,unknown,100,no test,infected
+28,37,female,medium,unknown,102,no test,not infected
+29,45,female,high,yes,104,no test,infected
+30,38,male,medium,yes,102,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,48,female,medium,yes,103,no test,infected
+3,54,female,medium,yes,101,no test,not infected
+4,29,male,medium,yes,104,no test,infected
+5,40,male,low,unknown,100,no test,not infected
+6,31,male,medium,no,102,no test,not infected
+7,54,female,low,yes,100,no test,infected
+8,28,female,low,yes,102,no test,infected
+9,48,female,high,unknown,104,no test,infected
+10,30,male,low,yes,100,no test,not infected
+11,54,female,medium,no,103,no test,infected
+12,22,female,high,yes,102,no test,infected
+13,25,male,low,unknown,100,no test,not infected
+14,50,female,medium,unknown,99,no test,infected
+15,45,female,low,no,104,no test,infected
+16,30,male,low,unknown,99,no test,not infected
+17,37,female,medium,yes,103,no test,not infected
+18,60,female,medium,no,103,no test,not infected
+19,31,female,low,yes,103,no test,infected
+20,36,female,medium,unknown,101,no test,not infected
+21,52,female,medium,yes,99,no test,not infected
+22,46,female,medium,yes,100,no test,not infected
+23,47,male,low,unknown,100,no test,infected
+24,40,female,low,yes,103,no test,infected
+25,45,male,low,no,98,no test,infected
+26,59,female,low,no,98,no test,not infected
+27,40,male,medium,yes,104,no test,infected
+28,37,female,low,no,104,no test,infected
+29,64,female,medium,yes,98,no test,not infected
+30,40,male,high,no,98,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,49,female,medium,yes,100,no test,infected
+3,35,male,medium,yes,103,no test,infected
+4,58,female,high,unknown,98,no test,infected
+5,55,male,low,yes,98,no test,not infected
+6,50,male,medium,yes,104,no test,not infected
+7,36,male,medium,yes,103,no test,infected
+8,45,male,low,yes,99,no test,not infected
+9,37,female,medium,unknown,102,no test,not infected
+10,58,female,low,unknown,100,no test,not infected
+11,55,male,low,yes,103,no test,infected
+12,41,female,medium,unknown,98,no test,infected
+13,29,male,medium,yes,101,no test,infected
+14,19,female,medium,unknown,104,no test,infected
+15,32,female,medium,yes,98,no test,infected
+16,39,male,low,no,102,no test,infected
+17,63,male,medium,unknown,101,no test,infected
+18,31,female,low,unknown,101,no test,not infected
+19,41,male,medium,unknown,103,no test,not infected
+20,46,male,low,yes,102,no test,not infected
+21,42,male,low,unknown,102,no test,not infected
+22,50,female,low,unknown,102,no test,not infected
+23,30,male,medium,yes,101,no test,not infected
+24,39,female,low,no,102,no test,infected
+25,37,female,medium,no,104,no test,infected
+26,47,female,low,yes,104,no test,infected
+27,55,female,low,yes,98,no test,not infected
+28,52,male,low,no,103,no test,infected
+29,30,male,low,no,103,no test,infected
+30,44,female,medium,yes,104,no test,infected
+1,44,male,medium,yes,100,no test,infected
+2,47,male,medium,unknown,104,no test,not infected
+3,27,female,high,yes,103,no test,infected
+4,38,female,medium,no,98,no test,infected
+5,24,male,low,unknown,98,no test,not infected
+6,65,female,medium,yes,101,no test,infected
+7,34,male,low,yes,101,no test,not infected
+8,43,female,medium,yes,104,no test,infected
+9,52,female,low,unknown,104,no test,not infected
+10,39,female,low,yes,98,no test,infected
+11,27,male,medium,yes,101,no test,infected
+12,38,male,low,no,102,no test,infected
+13,39,female,medium,unknown,104,no test,not infected
+14,37,female,low,unknown,100,no test,not infected
+15,26,male,high,unknown,99,no test,not infected
+16,61,female,medium,yes,104,no test,infected
+17,28,female,high,unknown,99,no test,not infected
+18,55,female,medium,no,99,no test,not infected
+19,58,male,high,yes,100,no test,not infected
+20,53,male,low,unknown,101,no test,infected
+21,36,male,medium,unknown,100,no test,not infected
+22,49,male,low,unknown,98,no test,infected
+23,34,female,medium,no,99,no test,not infected
+24,48,male,low,yes,102,no test,not infected
+25,32,male,medium,unknown,98,no test,infected
+26,55,female,medium,no,103,no test,infected
+27,38,female,medium,unknown,98,no test,infected
+28,51,male,low,yes,98,no test,not infected
+29,44,female,medium,yes,99,no test,infected
+30,24,male,high,unknown,104,no test,not infected
+1,44,male,medium,yes,100,no test,not infected
+2,46,male,high,yes,99,no test,infected
+3,41,male,low,yes,104,no test,not infected
+4,38,male,medium,unknown,103,no test,infected
+5,36,male,low,unknown,101,no test,not infected
+6,56,male,low,yes,103,no test,infected
+7,49,female,low,yes,104,no test,infected
+8,54,male,medium,no,104,no test,not infected
+9,37,male,medium,no,101,no test,infected
+10,52,female,low,no,98,no test,infected
+11,26,female,medium,no,98,no test,not infected
+12,49,female,low,no,98,no test,infected
+13,31,male,medium,yes,102,no test,not infected
+14,43,female,low,no,104,no test,infected
+15,49,male,medium,unknown,98,no test,infected
+16,57,male,low,no,104,no test,not infected
+17,58,male,low,yes,103,no test,infected
+18,40,male,medium,yes,98,no test,infected
+19,57,male,medium,yes,100,no test,not infected
+20,49,female,medium,no,100,no test,infected
+21,38,female,low,yes,101,no test,not infected
+22,56,female,low,yes,103,no test,infected
+23,53,female,low,unknown,99,no test,not infected
+24,34,female,medium,no,104,no test,not infected
+25,29,female,low,unknown,101,no test,infected
+26,39,male,low,no,99,no test,not infected
+27,23,female,medium,yes,98,no test,not infected
+28,57,male,medium,no,102,no test,infected
+29,30,female,medium,yes,99,no test,not infected
+30,50,female,medium,unknown,101,no test,infected
+1,44,male,medium,yes,100,no test,not infected
+2,38,female,low,yes,103,no test,not infected
+3,23,male,low,yes,102,no test,not infected
+4,23,male,medium,no,102,no test,not infected
+5,61,female,low,no,100,no test,infected
+6,29,female,low,unknown,100,no test,not infected
+7,36,female,low,no,98,no test,not infected
+8,45,male,medium,unknown,98,no test,infected
+9,54,male,low,yes,98,no test,infected
+10,50,female,medium,no,100,no test,not infected
+11,56,female,medium,no,100,no test,infected
+12,49,male,low,no,99,no test,infected
+13,41,female,low,yes,103,no test,infected
+14,44,female,medium,yes,102,no test,not infected
+15,57,female,low,unknown,104,no test,infected
+16,60,male,low,yes,101,no test,not infected
+17,46,female,low,yes,102,no test,infected
+18,50,male,medium,yes,104,no test,not infected
+19,41,female,medium,no,100,no test,infected
+20,51,female,medium,unknown,101,no test,infected
+21,61,male,low,unknown,103,no test,infected
+22,41,female,low,unknown,103,no test,infected
+23,50,male,medium,yes,103,no test,infected
+24,53,male,low,yes,98,no test,not infected
+25,47,female,low,yes,103,no test,infected
+26,61,female,low,yes,99,no test,infected
+27,44,female,low,yes,99,no test,not infected
+28,48,male,medium,unknown,100,no test,infected
+29,49,male,medium,unknown,102,no test,not infected
+30,55,male,medium,yes,101,no test,infected
