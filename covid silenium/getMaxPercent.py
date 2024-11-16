@@ -46,7 +46,7 @@ for arg in arguments:
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chromeOptions)
 
 max_days = 31
-tests = 10000
+tests = 100000
 
 def getStat(driver, **kw):
     
